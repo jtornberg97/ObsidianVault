@@ -46,9 +46,13 @@ tags:
 - Various understandings of [[Judaism 1|Jews]] around who the coming [[Messiah]] would be, but all expected that he would be a figure of power
 	- Isaiah 53:5-6 becomes important passage but doesn't mention a [[Messiah]]
 	- Psalm 22:1 initially forsaken, gets special favor
-- [[Bart Ehrman|Ehrman]] says that Christians looked for ways to make [[Jesus Christ|Jesus]] the [[Messiah]] based on passaged around suffering from the [[Old Testament]]
+- [[Bart Ehrman|Ehrman]] says that Christians looked for ways to make [[Jesus Christ|Jesus]] the [[Messiah]] based on passaged around suffering from the [[Old Testament]] ![[Screenshot 2025-07-03 at 9.37.04 PM.png]]
+- Christianity spread throughout Middle East through word of mouth, but where did people get their stories from?
+- Authors of [[Matthew (Gospel)]], [[Mark (Gospel)]], [[Luke (Gospel)]], and [[John (Gospel)]] were likely highly educated Greek speaking Christians (i.e. not those who would have met or spoken to Jesus)
+- [[Gospels]] were likely the result of oral tradition and some earlier writings that may no longer exist (i.e. [[Q Source]])
+- 
 ## Related Resources  
 - [[Course Summary - From Jesus to Constantine.pdf]]
 
 ## Questions
-- 
+- [[Resurrection Narratives in the Gospels]]
