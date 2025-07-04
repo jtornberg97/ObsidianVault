@@ -20,7 +20,7 @@ tags:
 
 ## Summary  
 
-Wealthy Jew who buried [[Jesus Christ|Jesus]] his family tomb
+Wealthy Jew who buried [[Jesus|Jesus]] his family tomb
 
 ## Key Contributions  
 - 

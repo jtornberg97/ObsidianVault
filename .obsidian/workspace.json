@@ -30,54 +30,6 @@
               "icon": "lucide-file",
               "title": "Lecture 4 - Oral and Written Traditions about Jesus"
             }
-          },
-          {
-            "id": "1579c6f8a7f8c2d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Permanent/King David.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "King David"
-            }
-          },
-          {
-            "id": "da66abc661c2b302",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Permanent/Judaism 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Judaism 1"
-            }
           }
         ]
       }
@@ -167,7 +119,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 258,
-                  "scale": 0.37394816836308636,
+                  "scale": 0.40828602643450684,
                   "close": true
                 }
               },
@@ -298,8 +250,20 @@
   },
   "active": "3d107a9f84f1d604",
   "lastOpenFiles": [
-    "John (Gospel).md",
+    "Permanent/John (Gospel).md",
     "Lectures/Ehrman - From Jesus to Constantine/Lecture 4 - Oral and Written Traditions about Jesus.md",
+    "Thomas (Non-Canonical Gospel).md",
+    "Permanent/Jesus.md",
+    "Lectures/Ehrman - From Jesus to Constantine/Lecture 1 - The Birth of Christianity.md",
+    "Lectures/Ehrman - From Jesus to Constantine/Lecture 2 - The Religious World of Early Christianity.md",
+    "Lectures/Ehrman - From Jesus to Constantine/Lecture 3 - The Historical Jesus.md",
+    "Permanent/Q Source.md",
+    "Thoughts and Questions/Resurrection Narratives in the Gospels.md",
+    "Permanent/Mark (Gospel).md",
+    "Permanent/Matthew (Gospel).md",
+    "Resources/Templates/Biblical Book.md",
+    "Permanent/Luke (Gospel).md",
+    "Permanent/Gospels.md",
     "Resources/Assets/Screenshot 2025-07-03 at 9.37.04 PM.png",
     "Permanent/Old Testament.md",
     "Permanent/Joseph of Arimathea.md",
@@ -307,24 +271,12 @@
     "Permanent/King David.md",
     "Permanent/Messiah.md",
     "Permanent/Judaism 1.md",
-    "Permanent/Matthew (Gospel).md",
-    "Permanent/Luke (Gospel).md",
     "Permanent/New Testament.md",
-    "Thoughts and Questions/Resurrection Narratives in the Gospels.md",
-    "Permanent/Jesus Christ.md",
     "Jesus.md",
-    "Lectures/Ehrman - From Jesus to Constantine/Lecture 3 - The Historical Jesus.md",
-    "Lectures/Ehrman - From Jesus to Constantine/Lecture 1 - The Birth of Christianity.md",
     "README.md",
-    "Lectures/Ehrman - From Jesus to Constantine/Lecture 2 - The Religious World of Early Christianity.md",
     "Permanent/Ancient Judaism.md",
     "Permanent/Anabaptist Movement.md",
     "Permanent/Alexander the Great.md",
-    "Permanent/95 Theses.md",
-    "Permanent/2 Corinthians.md",
-    "Permanent/Against Apion.md",
-    "Permanent/Pliny the Younger.md",
-    "Resources/Templates/Bible Verse.md",
     "Ideas",
     "Resources/Assets/Course Summary - From Jesus to Constantine.pdf",
     "Thoughts and Questions",

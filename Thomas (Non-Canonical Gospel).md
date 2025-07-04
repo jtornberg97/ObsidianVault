@@ -1,7 +1,7 @@
 ---
-title: <% tp.file.title %>
+title: Thomas (Non-Canonical Gospel)
 type: Biblical-Book
-testament: 
+testament: "[[Gnostic]]"
 author_tradition: 
 date_written: 
 cannonical_order: 
@@ -9,18 +9,20 @@ genre:
 audience: 
 key_themes: 
 related_books: 
-created: <% tp.date.now("YYYY-MM-DD") %>
-updated: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
+created: 2025-07-03
+updated: Thursday 3rd July 2025 21:56:36
 aliases: 
 tags:
   - Scripture
   - Bible
 ---
 
-#  <% tp.file.title %>
+#  Thomas (Non-Canonical Gospel)
 
 ## Summary  
-< Brief overview of the book’s content and purpose >
+
+Collection of 114 sayings of [[Jesus|Jesus]]
+
 
 ## Audience & Context  
 < Who was the book written for and what was the historical setting? >

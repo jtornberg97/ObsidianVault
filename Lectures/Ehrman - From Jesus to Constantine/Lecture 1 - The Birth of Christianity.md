@@ -27,7 +27,7 @@ tags:
 
 ## Key Points  
 - Christianity began as small Jewish sect, earliest followers were illiterate peasants from a remote corner of the [[Roman Empire]], how we get from that to Christianity now?
-- [[Jesus Christ]]
+- [[Jesus]]
 	- Lived from 4BCE - 30CE
 	- Jewish profit proclaiming a coming kingdom to Galilee and Israel
 	- Went to Jerusalem at the end of his life to spread the news, where he was ultimately crucified

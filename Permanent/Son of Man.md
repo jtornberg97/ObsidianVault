@@ -21,7 +21,7 @@ tags:
 
 ## Key Points  
 - [[Bart Ehrman|Ehrman]]
-	- [[Jesus Christ|Jesus]] refers to the Son of Man as a sort of cosmic judge coming down from heaven, found in final book of the Hebrew Bible, [[Daniel]]
+	- [[Jesus|Jesus]] refers to the Son of Man as a sort of cosmic judge coming down from heaven, found in final book of the Hebrew Bible, [[Daniel]]
 - 
 
 ## My Notes  

@@ -8,7 +8,9 @@ cannonical_order:
 genre: 
 audience: 
 key_themes: 
-related_books: 
+related_books:
+  - "[[Mark (Gospel)]]"
+  - "[[Matthew (Gospel)]]"
 created: 2025-07-03
 updated: Thursday 3rd July 2025 21:10:08
 aliases: 
@@ -17,7 +19,7 @@ tags:
   - Bible
 ---
 
-# # Luke (Gospel)
+# Luke (Gospel)
 
 ## Summary  
 < Brief overview of the book’s content and purpose >

@@ -17,8 +17,7 @@ tags:
 < Add a brief overview of the topic >
 
 ## Key Points  
-- 
-- 
+- [[Bart Ehrman|Ehrman]] - "A Gospel source available to [[Matthew (Gospel)]] and [[Luke (Gospel)]], now lost" --> [[Synoptic Problem]]
 - 
 
 ## My Notes  

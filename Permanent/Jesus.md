@@ -1,5 +1,5 @@
 ---
-title: Jesus Christ
+title: Jesus
 type: Person
 birth_date: 4 BCE
 death_date: 30 CE
@@ -14,7 +14,7 @@ notable_works:
 created: 2025-07-02
 updated: Tuesday 1st July 2025 22:30:52
 aliases:
-  - Jesus
+  - Jesus Christ
   - Christ
   - Jesus of Nazareth
 tags:
@@ -23,7 +23,7 @@ tags:
   - Judaism/Second-Temple-Judaism
 ---
 
-# Jesus Christ
+# Jesus
 
 ## Summary  
 < Who was this person and why are they important? >
