@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Ehrman - From Jesus to Constantine/Lecture 1 - The Birth of Christianity.md",
+                "file": "Lectures/Ehrman - From Jesus to Constantine/Lecture 4 - Oral and Written Traditions about Jesus.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lecture 1 - The Birth of Christianity"
+              "title": "Lecture 4 - Oral and Written Traditions about Jesus"
+            }
+          },
+          {
+            "id": "0520daa423feec6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Luke (Gospel).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Luke (Gospel)"
+            }
+          },
+          {
+            "id": "df031caa8cc8ffcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matthew (Gospel).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Matthew (Gospel)"
             }
           }
         ]
@@ -63,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"book\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,15 +144,15 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lectures/Ehrman - From Jesus to Constantine/Lecture 1 - The Birth of Christianity.md",
+                "file": "Lectures/Ehrman - From Jesus to Constantine/Lecture 4 - Oral and Written Traditions about Jesus.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
+                  "localInterlinks": true,
+                  "showTags": true,
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
@@ -119,12 +167,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 258,
-                  "scale": 0.536816821581313,
+                  "scale": 0.5666370279308228,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Lecture 1 - The Birth of Christianity"
+              "title": "Graph of Lecture 4 - Oral and Written Traditions about Jesus"
             }
           }
         ]
@@ -217,14 +265,25 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "cc1aa32f50b52fac",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "pinned": true,
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,13 +296,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65af0019cf353ac2",
+  "active": "3d107a9f84f1d604",
   "lastOpenFiles": [
-    "README.md",
-    "Lectures/Ehrman - From Jesus to Constantine/Lecture 2 - The Religious World of Early Christianity.md",
+    "Matthew (Gospel).md",
+    "Permanent/New Testament.md",
+    "Luke (Gospel).md",
     "Lectures/Ehrman - From Jesus to Constantine/Lecture 4 - Oral and Written Traditions about Jesus.md",
+    "Thoughts and Questions/Resurrection Narratives in the Gospels.md",
+    "Joseph of Arimathea.md",
+    "Permanent/Jesus Christ.md",
+    "Jesus.md",
     "Lectures/Ehrman - From Jesus to Constantine/Lecture 3 - The Historical Jesus.md",
     "Lectures/Ehrman - From Jesus to Constantine/Lecture 1 - The Birth of Christianity.md",
+    "README.md",
+    "Lectures/Ehrman - From Jesus to Constantine/Lecture 2 - The Religious World of Early Christianity.md",
     "Permanent/Ancient Judaism.md",
     "Permanent/Anabaptist Movement.md",
     "Permanent/Alexander the Great.md",
@@ -258,16 +324,9 @@
     "Permanent/Pontius Pilate.md",
     "Permanent/Pax Deorum.md",
     "Permanent/Trajan.md",
-    "Permanent/Jesus Christ.md",
-    "Permanent/Paul.md",
-    "Permanent/Constantine the Great.md",
-    "Permanent/Deuteronomy.md",
-    "Permanent/Bart Ehrman.md",
-    "Permanent/Untitled.md",
-    "Permanent/John Calvin.md",
     "Ideas",
     "Resources/Assets/Course Summary - From Jesus to Constantine.pdf",
-    "Questions",
+    "Thoughts and Questions",
     "Lectures/Ehrman - From Jesus to Constantine",
     "Lectures",
     "Permanent",

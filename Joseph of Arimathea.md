@@ -1,32 +1,26 @@
 ---
-title: Jesus Christ
+title: Joseph of Arimathea
 type: Person
-birth_date: 4 BCE
-death_date: 30 CE
+birth_date: 
+death_date: 
 period(s):
   - Second-Temple-Period
-religious-tradition:
-  - Second-Temple-Judaism
-  - "[[Apocalyptic Jews]]"
-role: "[[Messiah]]"
+religious-tradition: 
+role: Saint
 associated_movements: Early Christianity
 notable_works: 
-created: 2025-07-02
-updated: Tuesday 1st July 2025 22:30:52
-aliases:
-  - Jesus
-  - Christ
-  - Jesus of Nazareth
+created: 2025-07-03
+updated: Thursday 3rd July 2025 20:58:59
+aliases: 
 tags:
   - Person
-  - Second-Temple-Period
-  - Judaism/Second-Temple-Judaism
 ---
 
-# Jesus Christ
+# Joseph of Arimathea
 
 ## Summary  
-< Who was this person and why are they important? >
+
+Wealthy Jew who buried [[Jesus Christ|Jesus]] his family tomb
 
 ## Key Contributions  
 - 

@@ -23,7 +23,7 @@ tags:
 # Lecture 3 - The Historical Jesus
 
 ## Summary  
-- During the Second Temple period, Apocalypticism was not uncommon. Jesus was unique because his followers were convinced that he rose from the dead.
+- 
 
 ## Key Points  
 
@@ -31,10 +31,14 @@ tags:
 > Christianity is not the religion that [[Jesus Christ|Jesus]] proclaimed, but the religion that proclaimed [[Jesus Christ|Jesus]]
 > 
 
-
+- Crucified people were not usually put into a tomb, [[Bart Ehrman|Ehrman]] suggests that [[Joseph of Arimathea]] allowed him to be buried in a family tomb
+- All Gospel sources both early and late say that the tomb was in fact empty
+- [[Bart Ehrman|Ehrman]] says there are contradictions in the [[Resurrection Narratives in the Gospels]]
+	- In [[Matthew (Gospel)]] the women are told to go tell disciples to meet Jesus in Galilee, [[Jesus Christ|Jesus]] tells them to go and make disciples of the world, then leaves them
+	- In [[Luke (Gospel)]], the women are told to tell disciples to stay in Jerusalem, [[Jesus Christ|Jesus]] appears to them and ascends to heaven
+- 
 ## Related Resources  
 - [[Course Summary - From Jesus to Constantine.pdf]]
 
 ## Questions
-- [[Link between Apocalypticism and Gnosticism]]
-- [[How to Apply Ethics Taught By Jesus]]
+- 
