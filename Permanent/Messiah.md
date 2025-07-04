@@ -18,7 +18,7 @@ tags:
 # Messiah
 
 ## Summary  
-< Add a brief overview of the topic >
+Hebrew for "the annointed one"
 
 ## Key Points  
 - 

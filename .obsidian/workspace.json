@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Ehrman - From Jesus to Constantine/Lecture 4 - Oral and Written Traditions about Jesus.md",
+                "file": "Permanent/Joseph of Arimathea.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lecture 4 - Oral and Written Traditions about Jesus"
+              "title": "Joseph of Arimathea"
             }
           },
           {
-            "id": "0520daa423feec6f",
+            "id": "1579c6f8a7f8c2d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Luke (Gospel).md",
+                "file": "Permanent/King David.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Luke (Gospel)"
+              "title": "King David"
             }
           },
           {
-            "id": "df031caa8cc8ffcf",
+            "id": "da66abc661c2b302",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matthew (Gospel).md",
+                "file": "Permanent/Judaism 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Matthew (Gospel)"
+              "title": "Judaism 1"
             }
           }
         ]
@@ -144,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lectures/Ehrman - From Jesus to Constantine/Lecture 4 - Oral and Written Traditions about Jesus.md",
+                "file": "Permanent/Joseph of Arimathea.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -167,12 +167,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 258,
-                  "scale": 0.5666370279308228,
+                  "scale": 0.3739481683630863,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Lecture 4 - Oral and Written Traditions about Jesus"
+              "title": "Graph of Joseph of Arimathea"
             }
           }
         ]
@@ -296,14 +296,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d107a9f84f1d604",
+  "active": "25bd2b8618603035",
   "lastOpenFiles": [
-    "Matthew (Gospel).md",
-    "Permanent/New Testament.md",
-    "Luke (Gospel).md",
+    "Permanent/Old Testament.md",
     "Lectures/Ehrman - From Jesus to Constantine/Lecture 4 - Oral and Written Traditions about Jesus.md",
+    "Jews.md",
+    "Permanent/King David.md",
+    "Permanent/Messiah.md",
+    "Permanent/Judaism 1.md",
+    "Permanent/Matthew (Gospel).md",
+    "Permanent/Luke (Gospel).md",
+    "Permanent/New Testament.md",
     "Thoughts and Questions/Resurrection Narratives in the Gospels.md",
-    "Joseph of Arimathea.md",
+    "Permanent/Joseph of Arimathea.md",
     "Permanent/Jesus Christ.md",
     "Jesus.md",
     "Lectures/Ehrman - From Jesus to Constantine/Lecture 3 - The Historical Jesus.md",
@@ -319,11 +324,6 @@
     "Permanent/Pliny the Younger.md",
     "Resources/Templates/Bible Verse.md",
     "Resources/Metadata Definitions/Historical Periods.md",
-    "Permanent/Pagan.md",
-    "Permanent/Cult.md",
-    "Permanent/Pontius Pilate.md",
-    "Permanent/Pax Deorum.md",
-    "Permanent/Trajan.md",
     "Ideas",
     "Resources/Assets/Course Summary - From Jesus to Constantine.pdf",
     "Thoughts and Questions",
