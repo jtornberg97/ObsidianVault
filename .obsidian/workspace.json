@@ -248,8 +248,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25bd2b8618603035",
+  "active": "3d107a9f84f1d604",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Permanent MOC.md",
+    "Lectures MOC.md",
+    "MOC",
+    "README.md",
     "Permanent/Thomas (Non-Canonical Gospel).md",
     "Permanent/Joseph of Arimathea.md",
     "Permanent/James Tabor.md",
@@ -273,10 +278,6 @@
     "Jews.md",
     "Permanent/King David.md",
     "Permanent/Messiah.md",
-    "Permanent/Judaism 1.md",
-    "Permanent/New Testament.md",
-    "Jesus.md",
-    "README.md",
     "Ideas",
     "Resources/Assets/Course Summary - From Jesus to Constantine.pdf",
     "Thoughts and Questions",
@@ -285,7 +286,6 @@
     "Permanent",
     "Resources/Assets",
     "Resources",
-    "Resources/Metadata Definitions",
-    "Resources/Templates"
+    "Resources/Metadata Definitions"
   ]
 }
