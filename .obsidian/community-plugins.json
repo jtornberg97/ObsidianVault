@@ -2,5 +2,6 @@
   "dataview",
   "templater-obsidian",
   "auto-scripture-linker",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-linter"
 ]

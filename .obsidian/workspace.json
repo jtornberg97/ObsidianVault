@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "Permanent/James Tabor.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "James Tabor"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "Permanent/James Tabor.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -119,12 +119,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 258,
-                  "scale": 1.6875446050212548,
+                  "scale": 1.1403382985704162,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of README"
+              "title": "Graph of James Tabor"
             }
           }
         ]
@@ -248,13 +248,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d107a9f84f1d604",
+  "active": "cc1aa32f50b52fac",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Permanent MOC.md",
+    "People MOC.md",
+    "Resources/Templates/Person Template.md",
+    "MOC.md",
+    "README.md",
+    "Resources/Assets/Regions with Christian Churches 100 CE.png",
+    "Resources/Assets/Palestine in New Testament.png",
+    "Resources/Templates/Bible Verse.md",
+    "Permanent/2 Corinthians.md",
     "Lectures MOC.md",
     "MOC",
-    "README.md",
     "Permanent/Thomas (Non-Canonical Gospel).md",
     "Permanent/Joseph of Arimathea.md",
     "Permanent/James Tabor.md",
@@ -273,11 +278,7 @@
     "Resources/Templates/Biblical Book.md",
     "Permanent/Luke (Gospel).md",
     "Permanent/Gospels.md",
-    "Resources/Assets/Screenshot 2025-07-03 at 9.37.04 PM.png",
     "Permanent/Old Testament.md",
-    "Jews.md",
-    "Permanent/King David.md",
-    "Permanent/Messiah.md",
     "Ideas",
     "Resources/Assets/Course Summary - From Jesus to Constantine.pdf",
     "Thoughts and Questions",
