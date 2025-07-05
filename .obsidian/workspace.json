@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5e3a05bbb0dd206c",
+        "id": "bee00e0d465c4db3",
         "type": "tabs",
         "children": [
           {
-            "id": "f48f08a1cd02ad42",
+            "id": "f13a4055f5944913",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,13 +32,13 @@
             }
           },
           {
-            "id": "c287fb6495b15c24",
+            "id": "dcf910be0fa0002b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metadata Definitions/Historical Periods.md",
-                "mode": "source",
+                "file": "Frontmatter Definitions.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Historical Periods"
+              "title": "Frontmatter Definitions"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Oriental-Orthodox",
+                "query": "tag:#Judaism",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "58623ae6c5145fa6",
@@ -121,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Metadata Definitions/Historical Periods.md",
+                "file": "Frontmatter Definitions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -149,7 +150,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Historical Periods"
+              "title": "Graph of Frontmatter Definitions"
             }
           }
         ]
@@ -220,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People MOC.md",
+                "file": "Frontmatter Definitions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of People MOC"
+              "title": "Outline of Frontmatter Definitions"
             }
           },
           {
@@ -273,9 +274,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c287fb6495b15c24",
+  "active": "cc1aa32f50b52fac",
   "lastOpenFiles": [
+    "Resources/Templates/General Topic.md",
+    "Resources/Templates/Lecture or Video.md",
+    "Resources/Templates/Bible Verse.md",
+    "Metadata Definitions/Historical Periods.md",
+    "Frontmatter Definitions.md",
     "MOC.md",
+    "Permanent/Dead Sea Scrolls 1.md",
+    "Permanent/Gnostic.md",
+    "Permanent/Vatican I.md",
     "Permanent/Anabaptist Movement.md",
     "Change Tag Name.py",
     "Permanent/Against Apion.md",
@@ -289,20 +298,12 @@
     "Permanent/Martin Luther.md",
     "Permanent/Luke (Gospel).md",
     "Permanent/Ketuvim.md",
-    "Resources/Templates/General Topic.md",
-    "Resources/Templates/Lecture or Video.md",
     "Resources/Templates/Biblical Book.md",
-    "Resources/Templates/Bible Verse.md",
-    "Metadata Definitions/Historical Periods.md",
     "Metadata Definitions/Canonical Order.md",
     "People MOC.md",
     "README.md",
     "Permanent/Monotheism.md",
     "Permanent/Q Source.md",
-    "Permanent/Roman Empire.md",
-    "Permanent/Gentiles.md",
-    "Permanent/Josephus.md",
-    "Permanent/Untitled 1.md",
     "Resources/Assets/Regions with Christian Churches 100 CE.png",
     "Resources/Assets/Palestine in New Testament.png",
     "MOC",

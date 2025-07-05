@@ -4,13 +4,13 @@ type: Primary-Source
 author(s):
   - "[[Essenes]]"
 date_written: 
-periods:
-  - s
+periods: []
 religious-tradition:
   - Judaism
   - "[[Apocalyptic Jews]]"
 source_type: Text
-aliases: [Dead Sea Scrolls]
+aliases:
+  - Dead Sea Scrolls
 tags:
   - Primary-Source
 linter-yaml-title-alias: Dead Sea Scrolls

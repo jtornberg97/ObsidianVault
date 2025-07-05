@@ -2,24 +2,13 @@
 aliases: [📅 Historical Periods]
 linter-yaml-title-alias: 📅 Historical Periods
 date_created: Monday, June 30th 2025, 9:25:49 pm
-date_modified: Saturday, July 5th 2025, 12:07:41 am
+date_modified: Saturday, July 5th 2025, 12:25:50 am
 ---
 # 📅 Historical Periods
 
-This document outlines key historical periods relevant to studies in historical Christianity, Judaism, and theology. For use in frontmatter field `period(s)
+This document outlines key historical periods relevant to studies in historical Christianity, Judaism, and theology. For use in frontmatter field `periods
 
 ---
-
-
-
-```dataview
-table without id
-
-flatten periods as period
-
-group by period
-```
-
 ## 🧱 Ancient & Biblical Periods
 
 | Period                   | Description                                                   |
