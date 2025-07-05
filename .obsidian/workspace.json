@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Ehrman - From Jesus to Constantine/Lecture 4 - Oral and Written Traditions about Jesus.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lecture 4 - Oral and Written Traditions about Jesus"
+              "title": "README"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lectures/Ehrman - From Jesus to Constantine/Lecture 4 - Oral and Written Traditions about Jesus.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -119,12 +119,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 258,
-                  "scale": 0.40828602643450684,
+                  "scale": 1.6875446050212548,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Lecture 4 - Oral and Written Traditions about Jesus"
+              "title": "Graph of README"
             }
           }
         ]
@@ -248,17 +248,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d107a9f84f1d604",
+  "active": "25bd2b8618603035",
   "lastOpenFiles": [
-    "Permanent/John (Gospel).md",
+    "Permanent/Thomas (Non-Canonical Gospel).md",
+    "Permanent/Joseph of Arimathea.md",
+    "Permanent/James Tabor.md",
+    "Permanent/Bart Ehrman.md",
+    "Thoughts and Questions/Resurrection Narratives in the Gospels.md",
     "Lectures/Ehrman - From Jesus to Constantine/Lecture 4 - Oral and Written Traditions about Jesus.md",
-    "Thomas (Non-Canonical Gospel).md",
+    "Lectures/Ehrman - From Jesus to Constantine/Lecture 3 - The Historical Jesus.md",
+    "2025-07-03.md",
+    "Permanent/John (Gospel).md",
     "Permanent/Jesus.md",
     "Lectures/Ehrman - From Jesus to Constantine/Lecture 1 - The Birth of Christianity.md",
     "Lectures/Ehrman - From Jesus to Constantine/Lecture 2 - The Religious World of Early Christianity.md",
-    "Lectures/Ehrman - From Jesus to Constantine/Lecture 3 - The Historical Jesus.md",
     "Permanent/Q Source.md",
-    "Thoughts and Questions/Resurrection Narratives in the Gospels.md",
     "Permanent/Mark (Gospel).md",
     "Permanent/Matthew (Gospel).md",
     "Resources/Templates/Biblical Book.md",
@@ -266,7 +270,6 @@
     "Permanent/Gospels.md",
     "Resources/Assets/Screenshot 2025-07-03 at 9.37.04 PM.png",
     "Permanent/Old Testament.md",
-    "Permanent/Joseph of Arimathea.md",
     "Jews.md",
     "Permanent/King David.md",
     "Permanent/Messiah.md",
@@ -274,9 +277,6 @@
     "Permanent/New Testament.md",
     "Jesus.md",
     "README.md",
-    "Permanent/Ancient Judaism.md",
-    "Permanent/Anabaptist Movement.md",
-    "Permanent/Alexander the Great.md",
     "Ideas",
     "Resources/Assets/Course Summary - From Jesus to Constantine.pdf",
     "Thoughts and Questions",

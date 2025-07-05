@@ -1,5 +1,5 @@
 ---
-title: Bart Ehrman
+title: James Tabor
 type: Person
 birth_date: 
 death_date: 
@@ -10,19 +10,15 @@ religious-tradition:
 role: 
 associated_movements: 
 notable_works:
-  - "[[Lecture 1 - The Birth of Christianity]]"
-  - "[[Lecture 2 - The Religious World of Early Christianity]]"
-  - "[[Lecture 3 - The Historical Jesus]]"
-  - "[[Lecture 4 - Oral and Written Traditions about Jesus]]"
-created: 2025-07-01
-updated: 2025-07-01
-aliases:
-  - Ehrman
+  - https://youtube.com/shorts/TV_KA8P9Dhg?si=mqZmqshpfTfgyNwj
+created: 2025-07-04
+updated: Friday 4th July 2025 21:38:57
+aliases: 
 tags:
   - Person
 ---
 
-# Bart Ehrman
+# James Tabor
 
 ## Summary  
 < Who was this person and why are they important? >
@@ -34,6 +30,11 @@ tags:
 
 ## Historical Context  
 < Time period, major events, and religious/political setting >
+
+## Notable Works  
+- *Title*, Year – Summary
+- [[Link to primary or secondary sources]]
+
 
 ## Related Figures  
 - [[Related person 1]]

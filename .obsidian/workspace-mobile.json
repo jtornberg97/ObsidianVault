@@ -35,10 +35,24 @@
             "id": "9a0806f2206e025f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/Ehrman - From Jesus to Constantine/Lecture 3 - The Historical Jesus.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lecture 3 - The Historical Jesus"
             }
           }
         ],
@@ -191,6 +205,8 @@
   },
   "active": "9a0806f2206e025f",
   "lastOpenFiles": [
+    "Permanent/2 Corinthians.md",
+    "2025-07-03.md",
     "Test.md",
     "Templates/Download Lecture or Video Template.md",
     "Untitled"

@@ -20,7 +20,7 @@ tags:
   - Late-Second-Temple
 ---
 
-# Lecture 3 - The Historical Jesus
+# Lecture 4 - Oral and Written Traditions about Jesus
 
 ## Summary  
 - The resurrection narrative is critical to defining early Christianity. Without it, Jesus would have just been another prophet. Ehrman argues that his early followers selectively chose Old Testament passages that help fit this narrative
