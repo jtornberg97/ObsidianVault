@@ -6,11 +6,11 @@ death_date: 30 CE
 period(s):
   - Second-Temple-Period
 religious-tradition:
-  - Second-Temple-Judaism
-  - "[[Apocalyptic Jews]]"
+  - Early Christianity
 role: "[[Messiah]]"
 associated_movements: Early Christianity
-notable_works: 
+notable_works:
+  - "[[Passion]]"
 created: 2025-07-02
 updated: Tuesday 1st July 2025 22:30:52
 aliases:
@@ -21,6 +21,7 @@ tags:
   - Person
   - Second-Temple-Period
   - Judaism/Second-Temple-Judaism
+  - Apocalyptic
 ---
 
 # Jesus

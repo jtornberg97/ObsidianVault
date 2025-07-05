@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "498da5a3858a9a64",
+        "id": "57617d70be787327",
         "type": "tabs",
         "children": [
           {
-            "id": "3d107a9f84f1d604",
+            "id": "bd65bac3e53f1c04",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Permanent/James Tabor.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "James Tabor"
+              "title": "New tab"
             }
           }
         ]
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Oriental-Orthodox",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +82,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Permanent/James Tabor.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -124,7 +109,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of James Tabor"
+              "title": "Graph view"
             }
           }
         ]
@@ -195,13 +180,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Ehrman - From Jesus to Constantine/Lecture 1 - The Birth of Christianity.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecture 1 - The Birth of Christianity"
+              "title": "Outline"
             }
           },
           {
@@ -250,7 +234,11 @@
   },
   "active": "cc1aa32f50b52fac",
   "lastOpenFiles": [
+    "Permanent/Jesus.md",
     "People MOC.md",
+    "Permanent/Joseph of Arimathea.md",
+    "Permanent/Bart Ehrman.md",
+    "Permanent/James Tabor.md",
     "Resources/Templates/Person Template.md",
     "MOC.md",
     "README.md",
@@ -261,15 +249,11 @@
     "Lectures MOC.md",
     "MOC",
     "Permanent/Thomas (Non-Canonical Gospel).md",
-    "Permanent/Joseph of Arimathea.md",
-    "Permanent/James Tabor.md",
-    "Permanent/Bart Ehrman.md",
     "Thoughts and Questions/Resurrection Narratives in the Gospels.md",
     "Lectures/Ehrman - From Jesus to Constantine/Lecture 4 - Oral and Written Traditions about Jesus.md",
     "Lectures/Ehrman - From Jesus to Constantine/Lecture 3 - The Historical Jesus.md",
     "2025-07-03.md",
     "Permanent/John (Gospel).md",
-    "Permanent/Jesus.md",
     "Lectures/Ehrman - From Jesus to Constantine/Lecture 1 - The Birth of Christianity.md",
     "Lectures/Ehrman - From Jesus to Constantine/Lecture 2 - The Religious World of Early Christianity.md",
     "Permanent/Q Source.md",

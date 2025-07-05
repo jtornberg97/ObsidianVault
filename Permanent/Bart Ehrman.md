@@ -1,14 +1,14 @@
 ---
 title: Bart Ehrman
 type: Person
-birth_date: 
+birth_date: "1955"
 death_date: 
 period(s):
   - Modern-Period
 religious-tradition:
   - Scholar
-role: 
-associated_movements: 
+role: Biblical Scholar
+associated_movements: Historical Jesus
 notable_works:
   - "[[Lecture 1 - The Birth of Christianity]]"
   - "[[Lecture 2 - The Religious World of Early Christianity]]"
@@ -20,6 +20,8 @@ aliases:
   - Ehrman
 tags:
   - Person
+  - Modern-Period
+  - Scholar
 ---
 
 # Bart Ehrman

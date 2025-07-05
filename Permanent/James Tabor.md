@@ -18,6 +18,8 @@ aliases:
   - James D Tabor
 tags:
   - Person
+  - Modern-Period
+  - Scholar
 ---
 
 # James Tabor

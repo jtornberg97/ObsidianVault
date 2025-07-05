@@ -5,6 +5,6 @@ This Dataview table lists all notes about **People**, sorted by last modified da
 ```dataview
 table file.name as "Person", file.mtime as "Last Modified"
 from "Permanent"
-where contains(file.tags, "#Person")
+where type = "Person"
 sort file.mtime desc
 ```

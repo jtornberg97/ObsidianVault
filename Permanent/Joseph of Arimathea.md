@@ -1,11 +1,12 @@
 ---
 title: Joseph of Arimathea
 type: Person
-birth_date: 
-death_date: 
+birth_date: 1st Century CE
+death_date: 1st Century CE
 period(s):
   - Second-Temple-Period
-religious-tradition: 
+religious-tradition:
+  - Second-Temple-Judaism
 role: Saint
 associated_movements: Early Christianity
 notable_works: 
@@ -15,6 +16,9 @@ aliases:
   - Saint Joseph of Arimathea
 tags:
   - Person
+  - Second
+  - Judaism/Second-Temple-Judaism
+  - Second-Temple-Period
 ---
 
 # Joseph of Arimathea
