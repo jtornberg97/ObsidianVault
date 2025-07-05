@@ -1,41 +1,44 @@
 ---
 title: King David
 type: Person
-birth_date: 
-death_date: 
-period(s): 
-religious-tradition: 
-role: 
-associated_movements: 
+birth_date: ~1040 BCE
+death_date: ~970 BCE
+periods:
+  - United-Monarchy
+religious-tradition:
+  - Ancient-Israelite-Religion
+role: King of Israel
+associated_movements: Davidic Dynasty
 notable_works: 
-created: 2025-07-03
-updated: Thursday 3rd July 2025 21:26:09
-aliases: 
 tags:
   - Person
+  - United-Monarchy
+  - Judaism/Ancient-Israelite-Religion
+date_created: Thursday, July 3rd 2025, 9:26:09 pm
+date_modified: Friday, July 4th 2025, 11:43:44 pm
 ---
 
 # King David
 
-## Summary  
+## Summary
 < Who was this person and why are they important? >
 
-## Key Contributions  
+## Key Contributions
 - 
 - 
 - 
 
-## Historical Context  
+## Historical Context
 < Time period, major events, and religious/political setting >
 
-## Notable Works  
+## Notable Works
 - *Title*, Year – Summary
 - [[Link to primary or secondary sources]]
 
 
-## Related Figures  
+## Related Figures
 - [[Related person 1]]
 - [[Mentor, student, opponent, or contemporary]]
 
-## My Notes  
+## My Notes
 - < Reflections, controversies, connections to your studies >

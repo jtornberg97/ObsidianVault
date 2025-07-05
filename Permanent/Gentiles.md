@@ -1,26 +1,25 @@
 ---
 title: Gentiles
 type: Topic
-period(s):
+periods:
   - Ongoing
 religious-tradition:
   - Secular
-created: 2025-07-01
-updated: 2025-07-01
-aliases: 
 tags:
   - Topic
+date_created: Tuesday, July 1st 2025, 8:41:09 pm
+date_modified: Friday, July 4th 2025, 11:43:44 pm
 ---
 
 # Gentiles
 
-## Summary  
+## Summary
 Non-Jews
 
-## Key Points  
+## Key Points
 - 
 - 
 - 
 
-## My Notes  
+## My Notes
 - < Key takeaways, reflections, or disagreements >

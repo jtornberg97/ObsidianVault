@@ -1,45 +1,52 @@
 ---
 title: Martin Luther
 type: Person
-birth_date: 
-death_date: 
-period(s):
+birth_date: 1483 CE
+death_date: 1546 CE
+periods:
   - Reformation
 religious-tradition:
   - Protestant
   - Roman Catholic
-role: 
-associated_movements: Reformation
+  - Lutheran
+  - Reformation
+role:
+  - Theologian
+  - Reformer
+  - Priest
+associated_movements:
+  - Reformation
 notable_works:
   - "[[95 Theses]]"
-created: 2025-07-02
-updated: Wednesday 2nd July 2025 23:00:10
-aliases: 
+aliases:
+  - Luther
 tags:
   - Person
+date_created: Wednesday, July 2nd 2025, 11:00:10 pm
+date_modified: Friday, July 4th 2025, 11:43:44 pm
 ---
 
 # Martin Luther
 
-## Summary  
+## Summary
 < Who was this person and why are they important? >
 
-## Key Contributions  
+## Key Contributions
 - 
 - 
 - 
 
-## Historical Context  
+## Historical Context
 < Time period, major events, and religious/political setting >
 
-## Notable Works  
+## Notable Works
 - *Title*, Year – Summary
 - [[Link to primary or secondary sources]]
 
 
-## Related Figures  
+## Related Figures
 - [[John Calvin]]
 
 
-## My Notes  
+## My Notes
 - < Reflections, controversies, connections to your studies >

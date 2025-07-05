@@ -1,41 +1,43 @@
 ---
 title: Trajan
 type: Person
-birth_date: 
-death_date: 
-period(s): 
-religious-tradition: 
+birth_date: 53 CE
+death_date: 117 CE
+periods:
+  - Early-Roman-Empire
+religious-tradition:
+  - Pagan
 role: Emperor
 associated_movements: 
 notable_works: 
-created: 2025-07-02
-updated: Wednesday 2nd July 2025 23:22:25
-aliases: 
 tags:
   - Person
+  - Early-Roman-Empire
+date_created: Wednesday, July 2nd 2025, 11:22:25 pm
+date_modified: Friday, July 4th 2025, 11:43:44 pm
 ---
 
 # Trajan
 
-## Summary  
+## Summary
 < Who was this person and why are they important? >
 
-## Key Contributions  
+## Key Contributions
 - 
 - 
 - 
 
-## Historical Context  
+## Historical Context
 < Time period, major events, and religious/political setting >
 
-## Notable Works  
+## Notable Works
 - *Title*, Year – Summary
 - [[Link to primary or secondary sources]]
 
 
-## Related Figures  
+## Related Figures
 - [[Related person 1]]
 - [[Mentor, student, opponent, or contemporary]]
 
-## My Notes  
+## My Notes
 - < Reflections, controversies, connections to your studies >

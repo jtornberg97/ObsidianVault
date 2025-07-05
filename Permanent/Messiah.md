@@ -1,30 +1,30 @@
 ---
 title: Messiah
 type: Topic
-period(s):
+periods:
   - Second-Temple-Period
   - Late-Second-Temple
 religious-tradition: 
-created: 2025-07-01
-updated: 2025-07-01
 aliases:
   - Messianic
 tags:
   - Topic
   - Second-Temple-Period
   - Late-Second-Temple
+date_created: Tuesday, July 1st 2025, 10:38:13 pm
+date_modified: Friday, July 4th 2025, 11:43:44 pm
 ---
 
 # Messiah
 
-## Summary  
+## Summary
 Hebrew for "the annointed one"
 
-## Key Points  
+## Key Points
 - 
 - 
 - 
 
-## My Notes  
+## My Notes
 - < Key takeaways, reflections, or disagreements >
 - 

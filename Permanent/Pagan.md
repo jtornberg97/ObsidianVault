@@ -1,14 +1,12 @@
 ---
 title: Pagan
 type: Topic
-period(s):
+periods:
   - Apostolic-Period
   - Second-Temple-Period
   - Late-Second-Temple
 religious-tradition:
   - Pagan
-created: 2025-07-01
-updated: 2025-07-01
 aliases:
   - Pagans
   - Paganism
@@ -17,14 +15,16 @@ tags:
   - Apostolic-Period
   - Second-Temple-Period
   - Late-Second-Temple
+date_created: Tuesday, July 1st 2025, 10:31:37 pm
+date_modified: Friday, July 4th 2025, 11:43:44 pm
 ---
 
 # Pagan
 
-## Summary  
+## Summary
 < Add a brief overview of the topic >
 
-## Key Points  
+## Key Points
 - Adherent of any of the polytheistic religions of antiquity, particularly in the [[Roman Empire]]
 - Gods
 - Had Gods for all aspects of life (i.e. weather, war, crops, hell.)
@@ -34,6 +34,6 @@ tags:
 - 
 - 
 
-## My Notes  
+## My Notes
 - < Key takeaways, reflections, or disagreements >
 - 

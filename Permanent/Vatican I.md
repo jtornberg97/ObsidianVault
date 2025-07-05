@@ -1,30 +1,30 @@
 ---
 title: Vatican I
 type: Topic
-period(s):
+periods:
   - Modern-Period
 religious-tradition:
   - Roman Catholic
-created: 2025-07-01
-updated: 2025-07-01
 aliases:
   - First Vatican Council
 tags:
   - Topic
   - Modern-Period
   - Roman-Catholic
+date_created: Tuesday, July 1st 2025, 9:47:49 pm
+date_modified: Friday, July 4th 2025, 11:43:44 pm
 ---
 
 # Vatican I
 
-## Summary  
+## Summary
 < Add a brief overview of the topic >
 
-## Key Points  
+## Key Points
 - 
 - 
 - 
 
-## My Notes  
+## My Notes
 - < Key takeaways, reflections, or disagreements >
 - 

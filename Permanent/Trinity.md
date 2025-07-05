@@ -1,29 +1,28 @@
 ---
 title: Trinity
 type: Topic
-period(s):
+periods:
   - Ongoing
   - Nicence-and-Post-Nicene
 religious-tradition: 
-created: 2025-07-01
-updated: 2025-07-01
-aliases: 
 tags:
   - Topic
   - Ongoing
   - Nicene-and-Post-Nicene
+date_created: Tuesday, July 1st 2025, 10:49:22 pm
+date_modified: Friday, July 4th 2025, 11:43:44 pm
 ---
 
 # Trinity
 
-## Summary  
+## Summary
 < Add a brief overview of the topic >
 
-## Key Points  
+## Key Points
 - 
 - 
 - 
 
-## My Notes  
+## My Notes
 - < Key takeaways, reflections, or disagreements >
 - 

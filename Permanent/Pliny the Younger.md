@@ -3,25 +3,29 @@ title: Pliny the Younger
 type: Person
 birth_date: 61 CE
 death_date: 113 CE
-period(s): 
-religious-tradition: 
+periods:
+  - Early-Roman-Empire
+religious-tradition:
+  - Pagan
 role: Governor
 associated_movements: 
 notable_works: 
-created: 2025-07-02
-updated: Tuesday 1st July 2025 22:33:41
 aliases:
   - Pliny
 tags:
   - Person
+  - Early-Roman-Empire
+  - Pagan
+date_created: Tuesday, July 1st 2025, 10:33:41 pm
+date_modified: Friday, July 4th 2025, 11:43:44 pm
 ---
 
 # Pliny the Younger
 
-## Summary  
+## Summary
 < Who was this person and why are they important? >
 
-## Key Contributions  
+## Key Contributions
 - Wrote a letter to the Emperor [[Trajan]] about the problem, called them "Christians" because they were worshipping [[Jesus]]
 	- First mention to [[Jesus|Jesus]] in a [[Roman Empire|Roman]] source
 - Governor of Bythinia
@@ -29,17 +33,17 @@ tags:
 	- Passed a law that prevented gatherings, scared of political unrest
 
 
-## Historical Context  
+## Historical Context
 < Time period, major events, and religious/political setting >
 
-## Notable Works  
+## Notable Works
 - *Title*, Year – Summary
 - [[Link to primary or secondary sources]]
 
 
-## Related Figures  
+## Related Figures
 - [[Trajan]]
 - [[Mentor, student, opponent, or contemporary]]
 
-## My Notes  
+## My Notes
 - < Reflections, controversies, connections to your studies >

@@ -6,26 +6,25 @@ lecturer: "[[Bart Ehrman]]"
 event_or_series: From Jesus to Constantine
 date_delivered: 
 platform: Great Courses Plus
-period(s):
+periods:
   - Second-Temple-Period
   - Late-Second-Temple
 religious-tradition: 
 source_type: video
-created: 2025-07-01
-updated: 2025-07-01
-aliases: 
 tags:
   - Lecture
   - Second-Temple-Period
   - Late-Second-Temple
+date_created: Tuesday, July 1st 2025, 10:21:43 pm
+date_modified: Friday, July 4th 2025, 11:43:44 pm
 ---
 
 # Lecture 3 - The Historical Jesus
 
-## Summary  
+## Summary
 - During the Second Temple period, Apocalypticism was not uncommon. Jesus was unique because his followers were convinced that he rose from the dead.
 
-## Key Points  
+## Key Points
 - [[Bart Ehrman|Ehrman]] says it is hard to reconstruct the life and words of [[Jesus|Jesus]] due to the lack of primary sources and writings
 	- Argument that there is more information about [[Paul]] than Jesus
 - [[Jesus|Jesus]] never mentioned in the compendium of other writings from the Roman Empire from the 1st Century CE
@@ -61,7 +60,7 @@ tags:
 	- Handed Jesus over to [[Pontius Pilate]]
 - Unlike all other [[Apocalyptic Jews|Apocalyptic]] teachers at the time, Jesus has followers who continued to believe him after his death (i.e. resurrection)
 
-## Related Resources  
+## Related Resources
 - [[Course Summary - From Jesus to Constantine.pdf]]
 
 ## Questions

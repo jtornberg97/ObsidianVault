@@ -1,29 +1,28 @@
 ---
 title: Son of Man
 type: Topic
-period(s):
+periods:
   - Second-Temple-Period
   - Late-Second-Temple
 religious-tradition:
   - Ancient-Israelite-Religion
   - Second-Temple-Judaism
-created: 2025-07-01
-updated: 2025-07-01
-aliases: 
 tags:
   - Topic
+date_created: Tuesday, July 1st 2025, 10:38:21 pm
+date_modified: Friday, July 4th 2025, 11:43:44 pm
 ---
 
 # Son of Man
 
-## Summary  
+## Summary
 < Add a brief overview of the topic >
 
-## Key Points  
+## Key Points
 - [[Bart Ehrman|Ehrman]]
 	- [[Jesus|Jesus]] refers to the Son of Man as a sort of cosmic judge coming down from heaven, found in final book of the Hebrew Bible, [[Daniel]]
 - 
 
-## My Notes  
+## My Notes
 - < Key takeaways, reflections, or disagreements >
 - 

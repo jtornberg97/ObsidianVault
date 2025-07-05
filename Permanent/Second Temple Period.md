@@ -1,12 +1,10 @@
 ---
 title: Second Temple Period
 type: Topic
-period(s):
+periods:
   - Second-Temple-Period
 religious-tradition:
   - Second-Temple-Judaism
-created: 2025-07-01
-updated: 2025-07-01
 aliases:
   - Second Temple Judaism
   - Second Temple
@@ -14,18 +12,20 @@ tags:
   - Topic
   - Judaism/Second-Temple-Judaism
   - Second-Temple-Period
+date_created: Tuesday, July 1st 2025, 11:16:26 pm
+date_modified: Friday, July 4th 2025, 11:43:44 pm
 ---
 
 # Second Temple Period
 
-## Summary  
+## Summary
 < Add a brief overview of the topic >
 
-## Key Points  
+## Key Points
 - 
 - 
 - 
 
-## My Notes  
+## My Notes
 - < Key takeaways, reflections, or disagreements >
 - 

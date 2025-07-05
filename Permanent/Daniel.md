@@ -10,39 +10,38 @@ audience:
 key_themes:
   - "[[Son of Man]]"
 related_books: 
-created: 2025-07-02
-updated: Wednesday 2nd July 2025 22:32:55
-aliases: 
-tags:
-  - Scripture
-  - Bible
+aliases: ["# Daniel"]
+tags: [Scripture, Bible]
+linter-yaml-title-alias: "# Daniel"
+date_created: Wednesday, July 2nd 2025, 10:32:55 pm
+date_modified: Friday, July 4th 2025, 11:42:23 pm
 ---
 
 # # Daniel
 
-## Summary  
+## Summary
 < Brief overview of the book’s content and purpose >
 
-## Audience & Context  
+## Audience & Context
 < Who was the book written for and what was the historical setting? >
 
-## Genre & Literary Features  
+## Genre & Literary Features
 - Genre:  
 - Notable styles or structures:  
 
-## Key Themes  
+## Key Themes
 - [[Son of Man]]
 - 
 - 
 
-## Structure / Outline  
+## Structure / Outline
 1.  
 2.  
 3.  
 
-## Theological Insights  
+## Theological Insights
 < Important doctrinal or thematic contributions >
 
 
-## My Notes  
+## My Notes
 - < Observations, cross-references, interpretive notes >

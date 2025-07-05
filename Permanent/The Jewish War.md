@@ -4,31 +4,30 @@ type: Primary-Source
 author(s):
   - "[[Josephus]]"
 date_written: 
-period(s):
+periods:
   - Second-Temple-Period
 religious-tradition:
   - Second-Temple-Judaism
 source_type: Text
-created: 2025-07-02
-updated: Wednesday 2nd July 2025 22:48:28
-aliases: 
 tags:
   - Primary-Source
   - Judaism/Second-Temple-Judaism
+date_created: Wednesday, July 2nd 2025, 10:48:28 pm
+date_modified: Friday, July 4th 2025, 11:43:44 pm
 ---
 
-#  The Jewish War
+# The Jewish War
 
-## Source Overview  
+## Source Overview
 < Add a brief description of the source and its historical context >
 
-## Key Themes or Passages  
+## Key Themes or Passages
 -  
 -  
 -  
 
-## Text Context  
+## Text Context
 <Information about where this text was written, its purpose, or audience >
 
-## My Notes  
+## My Notes
 - < Your detailed notes or excerpts go here >

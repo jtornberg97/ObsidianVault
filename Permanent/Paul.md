@@ -2,47 +2,54 @@
 title: Paul
 type: Person
 birth_date: 10 CE
-death_date: 64 CE
-period(s):
-  - Roman-Period-Judaism
+death_date: ~64 CE - 67 CE
+periods:
+  - Second-Temple-Period
 religious-tradition:
-  - Judaism
-role: 
+  - Second-Temple-Judaism
+  - Early Christianity
+role: Apostle
 associated_movements: Early Christianity
 notable_works:
   - "[[Romans]]"
-created: 2025-07-02
-updated: Tuesday 1st July 2025 22:30:42
+  - "[[1 Corinthians]]"
+  - "[[Galatians]]"
+  - "[[Philippians]]"
+  - "[[1 Thessalonians]]"
 aliases:
   - Saul
   - Paul of Tarsus
   - Saint Paul
+  - Apostle Paul
 tags:
   - Person
-  - Roman-Period-Judaism
+  - Judaism/Second-Temple-Judaism
+  - Second-Temple-Period
+date_created: Tuesday, July 1st 2025, 10:30:42 pm
+date_modified: Friday, July 4th 2025, 11:43:44 pm
 ---
 
 # Paul
 
-## Summary  
+## Summary
 < Who was this person and why are they important? >
 
-## Key Contributions  
+## Key Contributions
 - 
 - 
 - 
 
-## Historical Context  
+## Historical Context
 < Time period, major events, and religious/political setting >
 
-## Notable Works  
+## Notable Works
 - *Title*, Year – Summary
 - [[Link to primary or secondary sources]]
 
 
-## Related Figures  
+## Related Figures
 - [[Related person 1]]
 - [[Mentor, student, opponent, or contemporary]]
 
-## My Notes  
+## My Notes
 - < Reflections, controversies, connections to your studies >

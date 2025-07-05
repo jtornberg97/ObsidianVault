@@ -1,3 +1,9 @@
+---
+aliases: [🛐 Religious Traditions]
+linter-yaml-title-alias: 🛐 Religious Traditions
+date_created: Monday, June 30th 2025, 9:39:26 pm
+date_modified: Friday, July 4th 2025, 11:42:24 pm
+---
 # 🛐 Religious Traditions
 
 This document lists major religious traditions relevant to historical Christianity, Judaism, and theology. For use in the frontmatter field `tradition:`.

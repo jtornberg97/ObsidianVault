@@ -1,29 +1,28 @@
 ---
 title: Vatican II
 type: Topic
-period(s):
+periods:
   - Contemporary-Period
 religious-tradition:
   - Roman Catholic
-created: 2025-07-01
-updated: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
-aliases: 
 tags:
   - Topic
   - Contemporary-Period
   - Roman-Catholic
+date_created: Tuesday, July 1st 2025, 9:49:25 pm
+date_modified: Friday, July 4th 2025, 11:43:44 pm
 ---
 
 # Vatican II
 
-## Summary  
+## Summary
 < Add a brief overview of the topic >
 
-## Key Points  
+## Key Points
 - 
 - 
 - 
 
-## My Notes  
+## My Notes
 - < Key takeaways, reflections, or disagreements >
 - 

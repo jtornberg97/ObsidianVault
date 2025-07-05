@@ -1,10 +1,10 @@
+---
+date_created: Friday, July 4th 2025, 9:56:07 pm
+date_modified: Friday, July 4th 2025, 11:42:23 pm
+---
 # People MOC
-
-This Dataview table lists all notes about **People**, sorted by last modified date.
-
 ```dataview
-table file.name as "Person", file.mtime as "Last Modified"
-from "Permanent"
-where type = "Person"
-sort file.mtime desc
+table religious-tradition as "Tradition"
+where type = "Topic"
+sort file.name asc
 ```

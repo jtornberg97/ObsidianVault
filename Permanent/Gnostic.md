@@ -1,16 +1,13 @@
 ---
 title: Gnostic
 type: Topic
-period(s):
+periods:
   - Ante-Nicene-Period
   - Second-Temple-Period
   - Late-Antiquity
 religious-tradition:
   - Gnostic
-created: 2025-07-01
-updated: 2025-07-01
 aliases:
-  - Gnostic
   - Gnosticism
 tags:
   - Ante-Nicene-Period
@@ -18,18 +15,20 @@ tags:
   - Late-Antiquity
   - Topic
   - Gnostic
+date_created: Tuesday, July 1st 2025, 8:46:07 pm
+date_modified: Friday, July 4th 2025, 11:43:44 pm
 ---
 
 # Gnostic
 
-## Summary  
+## Summary
 < Add a brief overview of the topic >
 
-## Key Points  
+## Key Points
 - 
 - 
 - 
 
-## My Notes  
+## My Notes
 - < Key takeaways, reflections, or disagreements >
 - 

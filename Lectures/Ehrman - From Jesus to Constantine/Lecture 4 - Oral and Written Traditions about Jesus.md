@@ -6,26 +6,25 @@ lecturer: "[[Bart Ehrman]]"
 event_or_series: From Jesus to Constantine
 date_delivered: 
 platform: Great Courses Plus
-period(s):
+periods:
   - Second-Temple-Period
   - Late-Second-Temple
 religious-tradition: 
 source_type: video
-created: 2025-07-01
-updated: 2025-07-01
-aliases: 
 tags:
   - Lecture
   - Second-Temple-Period
   - Late-Second-Temple
+date_created: Tuesday, July 1st 2025, 10:39:57 pm
+date_modified: Friday, July 4th 2025, 11:43:44 pm
 ---
 
 # Lecture 4 - Oral and Written Traditions about Jesus
 
-## Summary  
+## Summary
 - The resurrection narrative is critical to defining early Christianity. Without it, Jesus would have just been another prophet. Ehrman argues that his early followers selectively chose Old Testament passages that help fit this narrative
 
-## Key Points  
+## Key Points
 
 - Crucified people were not usually put into a tomb, [[Bart Ehrman|Ehrman]] suggests that [[Joseph of Arimathea]] allowed him to be buried in a family tomb
 - All Gospel sources both early and late say that the tomb was in fact empty
@@ -35,7 +34,7 @@ tags:
 - An effect of early followers belief in the resurrection is that:
 > [!quote] [[Bart Ehrman|Ehrman]]
 > Christianity is not the religion that [[Jesus|Jesus]] proclaimed, but the religion that proclaimed [[Jesus|Jesus]]
-> 
+>  
 - [[Jesus|Jesus]] changes from prophet of the coming messiah to the [[Messiah]]
 - Have to reconcile 
 	1) Why he came? 
@@ -63,7 +62,7 @@ tags:
 	- In [[Thomas (Non-Canonical Gospel)]], understanding the secret teachings of Jesus --> [[Salvation]]
 - 
 
-## Related Resources  
+## Related Resources
 - [[Course Summary - From Jesus to Constantine.pdf]]
 
 ## Questions

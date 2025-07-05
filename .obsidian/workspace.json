@@ -4,20 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "57617d70be787327",
+        "id": "5e3a05bbb0dd206c",
         "type": "tabs",
         "children": [
           {
-            "id": "bd65bac3e53f1c04",
+            "id": "f48f08a1cd02ad42",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Templates/General Topic.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "General Topic"
+            }
+          },
+          {
+            "id": "c287fb6495b15c24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metadata Definitions/Historical Periods.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Historical Periods"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,6 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Metadata Definitions/Historical Periods.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -104,12 +144,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 258,
-                  "scale": 1.1403382985704162,
+                  "scale": 0.5612660329150607,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Historical Periods"
             }
           }
         ]
@@ -180,12 +220,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "People MOC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of People MOC"
             }
           },
           {
@@ -232,45 +273,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc1aa32f50b52fac",
+  "active": "c287fb6495b15c24",
   "lastOpenFiles": [
-    "Permanent/Jesus.md",
-    "People MOC.md",
-    "Permanent/Joseph of Arimathea.md",
-    "Permanent/Bart Ehrman.md",
-    "Permanent/James Tabor.md",
-    "Resources/Templates/Person Template.md",
     "MOC.md",
+    "Permanent/Anabaptist Movement.md",
+    "Change Tag Name.py",
+    "Permanent/Against Apion.md",
+    "Permanent/95 Theses.md",
+    "Permanent/2 Corinthians.md",
+    "import os.py",
+    "Permanent/Atheists.md",
+    "Permanent/Arian Controversy.md",
+    "Permanent/Apocalyptic Jews.md",
+    "Permanent/Alexander the Great.md",
+    "Permanent/Martin Luther.md",
+    "Permanent/Luke (Gospel).md",
+    "Permanent/Ketuvim.md",
+    "Resources/Templates/General Topic.md",
+    "Resources/Templates/Lecture or Video.md",
+    "Resources/Templates/Biblical Book.md",
+    "Resources/Templates/Bible Verse.md",
+    "Metadata Definitions/Historical Periods.md",
+    "Metadata Definitions/Canonical Order.md",
+    "People MOC.md",
     "README.md",
+    "Permanent/Monotheism.md",
+    "Permanent/Q Source.md",
+    "Permanent/Roman Empire.md",
+    "Permanent/Gentiles.md",
+    "Permanent/Josephus.md",
+    "Permanent/Untitled 1.md",
     "Resources/Assets/Regions with Christian Churches 100 CE.png",
     "Resources/Assets/Palestine in New Testament.png",
-    "Resources/Templates/Bible Verse.md",
-    "Permanent/2 Corinthians.md",
-    "Lectures MOC.md",
     "MOC",
-    "Permanent/Thomas (Non-Canonical Gospel).md",
-    "Thoughts and Questions/Resurrection Narratives in the Gospels.md",
-    "Lectures/Ehrman - From Jesus to Constantine/Lecture 4 - Oral and Written Traditions about Jesus.md",
-    "Lectures/Ehrman - From Jesus to Constantine/Lecture 3 - The Historical Jesus.md",
-    "2025-07-03.md",
-    "Permanent/John (Gospel).md",
-    "Lectures/Ehrman - From Jesus to Constantine/Lecture 1 - The Birth of Christianity.md",
-    "Lectures/Ehrman - From Jesus to Constantine/Lecture 2 - The Religious World of Early Christianity.md",
-    "Permanent/Q Source.md",
-    "Permanent/Mark (Gospel).md",
-    "Permanent/Matthew (Gospel).md",
-    "Resources/Templates/Biblical Book.md",
-    "Permanent/Luke (Gospel).md",
-    "Permanent/Gospels.md",
-    "Permanent/Old Testament.md",
     "Ideas",
     "Resources/Assets/Course Summary - From Jesus to Constantine.pdf",
     "Thoughts and Questions",
     "Lectures/Ehrman - From Jesus to Constantine",
     "Lectures",
     "Permanent",
-    "Resources/Assets",
-    "Resources",
-    "Resources/Metadata Definitions"
+    "Resources/Assets"
   ]
 }

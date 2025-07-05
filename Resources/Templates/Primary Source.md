@@ -3,28 +3,28 @@ title: <% tp.file.title %>
 type: Primary-Source
 author(s): 
 date_written: 
-period(s): 
+periods: 
 religious-tradition: 
 source_type: Text
-created: <% tp.date.now("YYYY-MM-DD") %>
-updated: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
-aliases: 
-tags:
-  - Primary-Source
+aliases: [<% tp.file.title %>]
+tags: [Primary-Source]
+linter-yaml-title-alias: <% tp.file.title %>
+date_created: Monday, June 30th 2025, 9:53:54 pm
+date_modified: Friday, July 4th 2025, 11:42:23 pm
 ---
 
-#  <% tp.file.title %>
+# <% tp.file.title %>
 
-## Source Overview  
+## Source Overview
 < Add a brief description of the source and its historical context >
 
-## Key Themes or Passages  
+## Key Themes or Passages
 -  
 -  
 -  
 
-## Text Context  
+## Text Context
 <Information about where this text was written, its purpose, or audience >
 
-## My Notes  
+## My Notes
 - < Your detailed notes or excerpts go here >

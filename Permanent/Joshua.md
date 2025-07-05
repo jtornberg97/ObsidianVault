@@ -9,39 +9,38 @@ genre:
 audience: 
 key_themes: 
 related_books: 
-created: 2025-07-02
-updated: 2025-07-02
-aliases: 
-tags:
-  - Scripture
-  - Bible
+aliases: ["# Joshua"]
+tags: [Scripture, Bible]
+linter-yaml-title-alias: "# Joshua"
+date_created: Wednesday, July 2nd 2025, 10:18:34 pm
+date_modified: Friday, July 4th 2025, 11:42:23 pm
 ---
 
 # # Joshua
 
-## Summary  
+## Summary
 < Brief overview of the book’s content and purpose >
 
-## Audience & Context  
+## Audience & Context
 < Who was the book written for and what was the historical setting? >
 
-## Genre & Literary Features  
+## Genre & Literary Features
 - Genre:  
 - Notable styles or structures:  
 
-## Key Themes  
+## Key Themes
 - 
 - 
 - 
 
-## Structure / Outline  
+## Structure / Outline
 1.  
 2.  
 3.  
 
-## Theological Insights  
+## Theological Insights
 < Important doctrinal or thematic contributions >
 
 
-## My Notes  
+## My Notes
 - < Observations, cross-references, interpretive notes >

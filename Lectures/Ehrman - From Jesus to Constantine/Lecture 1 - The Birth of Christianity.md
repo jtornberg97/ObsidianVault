@@ -6,26 +6,25 @@ lecturer: "[[Bart Ehrman]]"
 event_or_series: From Jesus to Constantine
 date_delivered: 
 platform: Great Courses Plus
-period(s):
+periods:
   - Second-Temple-Period
   - Late-Second-Temple
 religious-tradition: 
 source_type: video
-created: 2025-07-01
-updated: 2025-07-01
-aliases: 
 tags:
   - Lecture
   - Divided-Kingdom
+date_created: Tuesday, July 1st 2025, 10:01:36 pm
+date_modified: Friday, July 4th 2025, 11:43:44 pm
 ---
 
 # Lecture 1 - The Birth of Christianity
 
-## Summary  
+## Summary
 - Christianity quickly grew from a small sect of Jewish followers in Galilee to a religion that dominated the [[Roman Empire]] and ultimately the world
 	- Catalyzed by the work of [[Paul]] and [[Constantine the Great|Constantine]]'s conversion
 
-## Key Points  
+## Key Points
 - Christianity began as small Jewish sect, earliest followers were illiterate peasants from a remote corner of the [[Roman Empire]], how we get from that to Christianity now?
 - [[Jesus]]
 	- Lived from 4BCE - 30CE
@@ -44,8 +43,8 @@ tags:
 	- [[Orthodox|Orthodoxy]]: "Correct Belief
 	- [[Heresy]]: "Choice" (i.e. someone who chooses to believe the wrong thing)
 
-## Related Resources  
+## Related Resources
 - [[Course Summary - From Jesus to Constantine.pdf]]
 
-## My Notes  
+## My Notes
 

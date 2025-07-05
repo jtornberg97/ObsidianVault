@@ -1,26 +1,23 @@
 ---
 title: Monotheism
 type: Topic
-period(s): 
+periods: 
 religious-tradition:
   - Judaism
-created: 2025-07-01
-updated: 2025-07-01
-aliases: 
-tags:
-  - Topic
-  - Judaism
+tags: [Topic, Judaism]
+date_created: Tuesday, July 1st 2025, 10:32:29 pm
+date_modified: Friday, July 4th 2025, 11:42:23 pm
 ---
 
 # Monotheism
 
-## Summary  
+## Summary
 "There is only one God" - [[Bart Ehrman|Ehrman]]
 
-## Key Points  
+## Key Points
 - Judaism is the first real Monotheistic religion 
 - Majority of the [[Roman Empire]] was [[Pagan]]
 
-## My Notes  
+## My Notes
 - < Key takeaways, reflections, or disagreements >
 - 

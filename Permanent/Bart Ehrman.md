@@ -3,7 +3,7 @@ title: Bart Ehrman
 type: Person
 birth_date: "1955"
 death_date: 
-period(s):
+periods:
   - Modern-Period
 religious-tradition:
   - Scholar
@@ -14,32 +14,32 @@ notable_works:
   - "[[Lecture 2 - The Religious World of Early Christianity]]"
   - "[[Lecture 3 - The Historical Jesus]]"
   - "[[Lecture 4 - Oral and Written Traditions about Jesus]]"
-created: 2025-07-01
-updated: 2025-07-01
 aliases:
   - Ehrman
 tags:
   - Person
   - Modern-Period
   - Scholar
+date_created: Tuesday, July 1st 2025, 11:07:27 pm
+date_modified: Friday, July 4th 2025, 11:43:44 pm
 ---
 
 # Bart Ehrman
 
-## Summary  
+## Summary
 < Who was this person and why are they important? >
 
-## Key Contributions  
+## Key Contributions
 - 
 - 
 - 
 
-## Historical Context  
+## Historical Context
 < Time period, major events, and religious/political setting >
 
-## Related Figures  
+## Related Figures
 - [[Related person 1]]
 - [[Mentor, student, opponent, or contemporary]]
 
-## My Notes  
+## My Notes
 - < Reflections, controversies, connections to your studies >

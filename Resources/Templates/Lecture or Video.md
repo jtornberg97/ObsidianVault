@@ -6,30 +6,29 @@ lecturer:
 event_or_series: 
 date_delivered: 
 platform: 
-period(s): 
+periods: 
 religious-tradition: 
 source_type: video
-created: <% tp.date.now("YYYY-MM-DD") %>
-updated: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
-aliases: 
-tags:
-  - Lecture
-  - Divided-Kingdom
+aliases: [<% tp.file.title %>]
+tags: [Lecture, Divided-Kingdom]
+linter-yaml-title-alias: <% tp.file.title %>
+date_created: Monday, June 30th 2025, 11:36:26 pm
+date_modified: Friday, July 4th 2025, 11:42:23 pm
 ---
 
 # <% tp.file.title %>
 
-## Summary  
+## Summary
 < Brief overview of the lecture or video >
 
-## Key Points  
+## Key Points
 - 
 - 
 - 
 
-## Related Resources  
+## Related Resources
 - [[Related lecture or reading]]
 - [[Related note in vault]]
 
-## My Notes  
+## My Notes
 - < Key takeaways, reflections, or disagreements >

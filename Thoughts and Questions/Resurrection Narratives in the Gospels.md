@@ -1,26 +1,24 @@
 ---
 title: Resurrection Narratives in the Gospels
 type: Topic
-period(s): 
+periods: 
 religious-tradition:
   - Christianity
-created: 2025-07-03
-updated: 2025-07-03
-aliases: 
-tags:
-  - Topic
+tags: [Topic]
+date_created: Thursday, July 3rd 2025, 9:04:30 pm
+date_modified: Friday, July 4th 2025, 11:42:23 pm
 ---
 
 # Resurrection Narratives in the Gospels
 
-## Summary  
+## Summary
 < Add a brief overview of the topic >
 
-## Key Points  
+## Key Points
 - 
 - 
 - 
 
-## My Notes  
+## My Notes
 - < Key takeaways, reflections, or disagreements >
 - 

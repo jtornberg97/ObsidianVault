@@ -1,26 +1,24 @@
 ---
 title: Gospels
 type: Topic
-period(s): 
+periods: 
 religious-tradition:
   - Christianity
-created: 2025-07-03
-updated: 2025-07-03
-aliases: 
-tags:
-  - Topic
+tags: [Topic]
+date_created: Tuesday, July 1st 2025, 10:33:54 pm
+date_modified: Friday, July 4th 2025, 11:42:23 pm
 ---
 
 # Gospels
 
-## Summary  
+## Summary
 < Add a brief overview of the topic >
 
-## Key Points  
+## Key Points
 - 
 - 
 - 
 
-## My Notes  
+## My Notes
 - < Key takeaways, reflections, or disagreements >
 - 

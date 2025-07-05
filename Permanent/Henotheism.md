@@ -1,29 +1,25 @@
 ---
 title: Henotheism
 type: Topic
-period(s): 
+periods: 
 religious-tradition:
   - Pagan
-created: 2025-07-01
-updated: 2025-07-01
-aliases:
-  - Henotheist
-  - Henotheists
-tags:
-  - Topic
-  - Pagan
+aliases: [Henotheist, Henotheists]
+tags: [Topic, Pagan]
+date_created: Tuesday, July 1st 2025, 10:32:25 pm
+date_modified: Friday, July 4th 2025, 11:42:23 pm
 ---
 
 # Henotheism
 
-## Summary  
+## Summary
 - You *should* only worship one God - [[Bart Ehrman|Ehrman]]
 
-## Key Points  
+## Key Points
 - Many [[Pagan|Pagans]] were Henotheists, [[Cult]] worship
 - Early Jews had to be convinced that there is only one God, when [[Pagan|Pagans]] were worshipping multiple
 - 
 
-## My Notes  
+## My Notes
 - < Key takeaways, reflections, or disagreements >
 - 

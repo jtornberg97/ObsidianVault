@@ -1,12 +1,10 @@
 ---
 title: Arian Controversy
 type: Topic
-period(s):
+periods:
   - Nicence-and-Post-Nicene
 religious-tradition:
   - Arianism
-created: 2025-07-01
-updated: 2025-07-01
 aliases:
   - Arian
   - Arianism
@@ -14,18 +12,20 @@ tags:
   - Topic
   - Nicene-and-Post-Nicene
   - Arianism
+date_created: Tuesday, July 1st 2025, 9:20:29 pm
+date_modified: Friday, July 4th 2025, 11:43:44 pm
 ---
 
 # Arian Controversy
 
-## Summary  
+## Summary
 < Add a brief overview of the topic >
 
-## Key Points  
+## Key Points
 - 
 - 
 - 
 
-## My Notes  
+## My Notes
 - < Key takeaways, reflections, or disagreements >
 - 

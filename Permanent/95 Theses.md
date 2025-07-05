@@ -1,13 +1,11 @@
 ---
 title: 95 Theses
 type: Topic
-period(s):
+periods:
   - Reformation
 religious-tradition:
   - Lutheran
   - Roman Catholic
-created: 2025-07-01
-updated: 2025-07-01
 aliases:
   - Luther's 95 Theses
 tags:
@@ -17,18 +15,20 @@ tags:
   - Lutheran
 author(s):
   - "[[John Calvin]]"
+date_created: Tuesday, July 1st 2025, 10:56:29 pm
+date_modified: Friday, July 4th 2025, 11:43:44 pm
 ---
 
 # 95 Theses
 
-## Summary  
+## Summary
 < Add a brief overview of the topic >
 
-## Key Points  
+## Key Points
 - 
 - 
 - 
 
-## My Notes  
+## My Notes
 - < Key takeaways, reflections, or disagreements >
 - 

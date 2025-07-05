@@ -3,16 +3,15 @@ title: Jesus
 type: Person
 birth_date: 4 BCE
 death_date: 30 CE
-period(s):
+periods:
   - Second-Temple-Period
+  - Apostolic-Period
 religious-tradition:
   - Early Christianity
 role: "[[Messiah]]"
 associated_movements: Early Christianity
 notable_works:
   - "[[Passion]]"
-created: 2025-07-02
-updated: Tuesday 1st July 2025 22:30:52
 aliases:
   - Jesus Christ
   - Christ
@@ -22,29 +21,32 @@ tags:
   - Second-Temple-Period
   - Judaism/Second-Temple-Judaism
   - Apocalyptic
+  - Messiah
+date_created: Tuesday, July 1st 2025, 10:30:52 pm
+date_modified: Friday, July 4th 2025, 11:43:44 pm
 ---
 
 # Jesus
 
-## Summary  
+## Summary
 < Who was this person and why are they important? >
 
-## Key Contributions  
+## Key Contributions
 - 
 - 
 - 
 
-## Historical Context  
+## Historical Context
 < Time period, major events, and religious/political setting >
 
-## Notable Works  
+## Notable Works
 - *Title*, Year – Summary
 - [[Link to primary or secondary sources]]
 
 
-## Related Figures  
+## Related Figures
 - [[Related person 1]]
 - [[Mentor, student, opponent, or contemporary]]
 
-## My Notes  
+## My Notes
 - < Reflections, controversies, connections to your studies >

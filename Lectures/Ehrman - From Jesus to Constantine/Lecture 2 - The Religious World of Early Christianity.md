@@ -6,27 +6,26 @@ lecturer: "[[Bart Ehrman]]"
 event_or_series: From Jesus to Constantine
 date_delivered: 
 platform: Great Courses Plus
-period(s):
+periods:
   - Second-Temple-Period
   - Late-Second-Temple
 religious-tradition: 
 source_type: video
-created: 2025-07-01
-updated: 2025-07-01
-aliases: 
 tags:
   - Lecture
   - Divided-Kingdom
   - Second-Temple-Period
   - Late-Second-Temple
+date_created: Tuesday, July 1st 2025, 10:14:28 pm
+date_modified: Friday, July 4th 2025, 11:43:44 pm
 ---
 
 # Lecture 2 - The Religious World of Early Christianity
 
-## Summary  
+## Summary
  There was a lot of religious diversity in the Roman World, Judaism was just a small mostly regional religion. Paganism and Cult worship were prominent and offered practical Gods for everyday needs. While Jewish believes varied, the common threads were monotheism, the Torah, and Jewish Law.
 
-## Key Points  
+## Key Points
 - Greco-Roman World - The lands around the Mediterranean from 300BC - 300AD
 	- [[Alexander the Great]] - [[Constantine the Great]]
 	- Kingdom conquered by [[Alexander the Great]] was split into regions that were ruled by his generals, Hellenistic culture remains for centuries
@@ -61,6 +60,6 @@ tags:
 	 - Some emphasized staying pure in front of God (i.e. early [[Monasticism]])
 	 - Others were focused on the coming intervention of God (i.e [[Apocalyptic Jews]])
 
-## Related Resources  
+## Related Resources
 - [[Course Summary - From Jesus to Constantine.pdf]]
 

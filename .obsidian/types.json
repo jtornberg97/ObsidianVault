@@ -12,6 +12,9 @@
     "author(s)": "multitext",
     "key_themes": "multitext",
     "related_books": "multitext",
-    "notable_works": "multitext"
+    "notable_works": "multitext",
+    "associated_movements": "multitext",
+    "role": "multitext",
+    "periods": "multitext"
   }
 }

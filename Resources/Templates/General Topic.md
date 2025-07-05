@@ -1,25 +1,24 @@
 ---
 title: <% tp.file.title %>
 type: Topic
-period(s): 
 religious-tradition: 
-created: <% tp.date.now("YYYY-MM-DD") %>
-updated: <% tp.date.now("YYYY-MM-DD") %>
-aliases: 
-tags:
-  - Topic
+aliases: [<% tp.file.title %>]
+tags: [Topic]
+linter-yaml-title-alias: <% tp.file.title %>
+date_created: Monday, June 30th 2025, 9:18:17 pm
+date_modified: Friday, July 4th 2025, 11:42:23 pm
 ---
 
 # <% tp.file.title %>
 
-## Summary  
+## Summary
 < Add a brief overview of the topic >
 
-## Key Points  
+## Key Points
 - 
 - 
 - 
 
-## My Notes  
+## My Notes
 - < Key takeaways, reflections, or disagreements >
 - 

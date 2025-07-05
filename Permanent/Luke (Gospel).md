@@ -11,39 +11,36 @@ key_themes:
 related_books:
   - "[[Mark (Gospel)]]"
   - "[[Matthew (Gospel)]]"
-created: 2025-07-03
-updated: Thursday 3rd July 2025 21:10:08
-aliases: 
-tags:
-  - Scripture
-  - Bible
+tags: [Scripture, Bible]
+date_created: Thursday, July 3rd 2025, 9:10:08 pm
+date_modified: Friday, July 4th 2025, 11:42:23 pm
 ---
 
 # Luke (Gospel)
 
-## Summary  
+## Summary
 < Brief overview of the book’s content and purpose >
 
-## Audience & Context  
+## Audience & Context
 < Who was the book written for and what was the historical setting? >
 
-## Genre & Literary Features  
+## Genre & Literary Features
 - Genre:  
 - Notable styles or structures:  
 
-## Key Themes  
+## Key Themes
 - 
 - 
 - 
 
-## Structure / Outline  
+## Structure / Outline
 1.  
 2.  
 3.  
 
-## Theological Insights  
+## Theological Insights
 < Important doctrinal or thematic contributions >
 
 
-## My Notes  
+## My Notes
 - < Observations, cross-references, interpretive notes >

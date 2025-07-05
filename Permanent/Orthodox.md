@@ -1,28 +1,28 @@
 ---
 title: Orthodox
 type: Topic
-period(s):
+periods:
   - Ongoing
 religious-tradition: 
-created: 2025-07-01
-updated: 2025-07-01
 aliases:
   - Orthodoxy
 tags:
   - Topic
   - Ongoing
+date_created: Tuesday, July 1st 2025, 9:17:59 pm
+date_modified: Friday, July 4th 2025, 11:43:44 pm
 ---
 
 # Orthodox
 
-## Summary  
+## Summary
 "Correct Belief" - Greek
 
-## Key Points  
+## Key Points
 - 
 - 
 - 
 
-## My Notes  
+## My Notes
 - < Key takeaways, reflections, or disagreements >
 - 

@@ -1,13 +1,11 @@
 ---
 title: Monasticism
 type: Topic
-period(s):
+periods:
   - Ongoing
 religious-tradition:
   - Eastern Orthodox
   - Roman Catholic
-created: 2025-07-01
-updated: 2025-07-01
 aliases:
   - Monk
   - Monks
@@ -16,18 +14,20 @@ tags:
   - Eastern-Orthodox
   - Roman-Catholic
   - Ongoing
+date_created: Tuesday, July 1st 2025, 9:14:06 pm
+date_modified: Friday, July 4th 2025, 11:43:44 pm
 ---
 
 # Monasticism
 
-## Summary  
+## Summary
 < Add a brief overview of the topic >
 
-## Key Points  
+## Key Points
 - 
 - 
 - 
 
-## My Notes  
+## My Notes
 - < Key takeaways, reflections, or disagreements >
 - 

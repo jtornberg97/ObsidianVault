@@ -1,25 +1,23 @@
 ---
 title: Q Source
 type: Topic
-period(s): 
+periods: 
 religious-tradition: 
-created: 2025-07-01
-updated: 2025-07-01
-aliases:
-  - Q
-tags:
-  - Topic
+aliases: [Q]
+tags: [Topic]
+date_created: Tuesday, July 1st 2025, 10:51:30 pm
+date_modified: Friday, July 4th 2025, 11:42:23 pm
 ---
 
 # Q Source
 
-## Summary  
-< Add a brief overview of the topic >
+## Summary
+< Add a brief overview of the toipc >
 
-## Key Points  
+## Key Points
 - [[Bart Ehrman|Ehrman]] - "A Gospel source available to [[Matthew (Gospel)]] and [[Luke (Gospel)]], now lost" --> [[Synoptic Problem]]
 - 
 
-## My Notes  
+## My Notes
 - < Key takeaways, reflections, or disagreements >
 - 

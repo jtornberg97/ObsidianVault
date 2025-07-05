@@ -1,12 +1,10 @@
 ---
 title: Anabaptist Movement
 type: Topic
-period(s):
+periods:
   - Reformation
 religious-tradition:
   - Anabaptist
-created: 2025-07-01
-updated: 2025-07-01
 aliases:
   - Anabaptists
   - Anabaptist
@@ -14,18 +12,20 @@ tags:
   - Topic
   - Anabaptist
   - Reformation
+date_created: Tuesday, July 1st 2025, 9:26:15 pm
+date_modified: Friday, July 4th 2025, 11:43:44 pm
 ---
 
 # Anabaptist Movement
 
-## Summary  
+## Summary
 < Add a brief overview of the topic >
 
-## Key Points  
+## Key Points
 - 
 - 
 - 
 
-## My Notes  
+## My Notes
 - < Key takeaways, reflections, or disagreements >
 - 

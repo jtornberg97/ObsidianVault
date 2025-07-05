@@ -1,3 +1,9 @@
+---
+aliases: [📚 Canonical Order of Biblical Books]
+linter-yaml-title-alias: 📚 Canonical Order of Biblical Books
+date_created: Tuesday, July 1st 2025, 8:20:05 pm
+date_modified: Friday, July 4th 2025, 11:42:24 pm
+---
 # 📚 Canonical Order of Biblical Books
 
 This reference lists the canonical order of books in various traditions: **Protestant**, **Catholic**, and **Jewish (Tanakh)**. For use in the frontmatter field `canonical_order:`.

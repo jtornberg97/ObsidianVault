@@ -1,29 +1,28 @@
 ---
 title: Atheists
 type: Topic
-period(s):
+periods:
   - Ongoing
 religious-tradition:
   - Secular
-created: 2025-07-01
-updated: 2025-07-01
-aliases: 
 tags:
   - Topic
   - Secular
   - Ongoing
+date_created: Tuesday, July 1st 2025, 10:32:12 pm
+date_modified: Friday, July 4th 2025, 11:43:44 pm
 ---
 
 # Atheists
 
-## Summary  
+## Summary
 < Add a brief overview of the topic >
 
-## Key Points  
+## Key Points
 - 
 - 
 - 
 
-## My Notes  
+## My Notes
 - < Key takeaways, reflections, or disagreements >
 - 

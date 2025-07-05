@@ -1,29 +1,28 @@
 ---
 title: Counter-Reformation
 type: Topic
-period(s):
+periods:
   - Reformation
 religious-tradition:
   - Roman Catholic
-created: 2025-07-01
-updated: 2025-07-01
-aliases: 
 tags:
   - Topic
   - Reformation
   - Roman-Catholic
+date_created: Tuesday, July 1st 2025, 10:59:35 pm
+date_modified: Friday, July 4th 2025, 11:43:44 pm
 ---
 
 # Counter-Reformation
 
-## Summary  
+## Summary
 < Add a brief overview of the topic >
 
-## Key Points  
+## Key Points
 - 
 - 
 - 
 
-## My Notes  
+## My Notes
 - < Key takeaways, reflections, or disagreements >
 - 

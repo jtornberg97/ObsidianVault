@@ -3,15 +3,13 @@ title: Joseph of Arimathea
 type: Person
 birth_date: 1st Century CE
 death_date: 1st Century CE
-period(s):
+periods:
   - Second-Temple-Period
 religious-tradition:
   - Second-Temple-Judaism
 role: Saint
 associated_movements: Early Christianity
 notable_works: 
-created: 2025-07-03
-updated: Thursday 3rd July 2025 20:58:59
 aliases:
   - Saint Joseph of Arimathea
 tags:
@@ -19,28 +17,30 @@ tags:
   - Second
   - Judaism/Second-Temple-Judaism
   - Second-Temple-Period
+date_created: Thursday, July 3rd 2025, 8:58:59 pm
+date_modified: Friday, July 4th 2025, 11:43:44 pm
 ---
 
 # Joseph of Arimathea
 
-## Summary  
+## Summary
 
-## Key Contributions  
+## Key Contributions
 - [[Bart Ehrman|Ehrman]] and Gospels say that he buried [[Jesus]] in his family tomb
 - [[James Tabor]] says that it may have been out of [necessity](https://youtube.com/shorts/TV_KA8P9Dhg?si=mqZmqshpfTfgyNwj) rather than good will
 - 
 
-## Historical Context  
+## Historical Context
 < Time period, major events, and religious/political setting >
 
-## Notable Works  
+## Notable Works
 - *Title*, Year – Summary
 - [[Link to primary or secondary sources]]
 
 
-## Related Figures  
+## Related Figures
 - [[Related person 1]]
 - [[Mentor, student, opponent, or contemporary]]
 
-## My Notes  
+## My Notes
 - < Reflections, controversies, connections to your studies >

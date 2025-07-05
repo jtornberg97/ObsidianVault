@@ -1,27 +1,24 @@
 ---
 title: Reformed Theology
 type: Topic
-period(s): 
+periods: 
 religious-tradition:
   - Reformed
-created: 2025-07-01
-updated: 2025-07-01
-aliases: 
-tags:
-  - Topic
-  - Reformed
+tags: [Topic, Reformed]
+date_created: Tuesday, July 1st 2025, 11:00:37 pm
+date_modified: Friday, July 4th 2025, 11:42:23 pm
 ---
 
 # Reformed Theology
 
-## Summary  
+## Summary
 < Add a brief overview of the topic >
 
-## Key Points  
+## Key Points
 - 
 - 
 - 
 
-## My Notes  
+## My Notes
 - < Key takeaways, reflections, or disagreements >
 - 

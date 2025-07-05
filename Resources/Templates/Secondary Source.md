@@ -6,29 +6,29 @@ publication_year:
 period_covered: 
 religious-tradition: 
 source_type: Book
-created: <% tp.date.now("YYYY-MM-DD") %>
-updated: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
-aliases: 
-tags:
-  - Secondary-Source
+aliases: [<% tp.file.title %>]
+tags: [Secondary-Source]
+linter-yaml-title-alias: <% tp.file.title %>
+date_created: Monday, June 30th 2025, 11:32:51 pm
+date_modified: Friday, July 4th 2025, 11:42:23 pm
 ---
 
 # <% tp.file.title %>
 
-## Summary  
+## Summary
 < Add a high-level summary of the work >
 
-## Key Arguments  
+## Key Arguments
 - 
 - 
 - 
 
-## Related Works  
+## Related Works
 
 
-## Key Quotes or Passages  
+## Key Quotes or Passages
 > “...” – Page #
 
-## My Notes 
+## My Notes
 - < Personal reflections, disagreements, or synthesis >
 

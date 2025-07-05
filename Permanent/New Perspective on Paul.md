@@ -1,26 +1,25 @@
 ---
 title: New Perspective on Paul
 type: Topic
-period(s):
+periods:
   - Contemporary-Period
 religious-tradition: 
-created: 2025-07-01
-updated: 2025-07-01
-aliases: 
 tags:
   - Topic
+date_created: Tuesday, July 1st 2025, 10:52:42 pm
+date_modified: Friday, July 4th 2025, 11:43:44 pm
 ---
 
 # New Perspective on Paul
 
-## Summary  
+## Summary
 < Add a brief overview of the topic >
 [[Paul]]
-## Key Points  
+## Key Points
 - 
 - 
 - 
 
-## My Notes  
+## My Notes
 - < Key takeaways, reflections, or disagreements >
 - 

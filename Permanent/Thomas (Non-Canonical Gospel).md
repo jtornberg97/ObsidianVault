@@ -9,41 +9,38 @@ genre:
 audience: 
 key_themes: 
 related_books: 
-created: 2025-07-03
-updated: Thursday 3rd July 2025 21:56:36
-aliases: 
-tags:
-  - Scripture
-  - Bible
+tags: [Scripture, Bible]
+date_created: Thursday, July 3rd 2025, 9:56:36 pm
+date_modified: Friday, July 4th 2025, 11:42:23 pm
 ---
 
-#  Thomas (Non-Canonical Gospel)
+# Thomas (Non-Canonical Gospel)
 
-## Summary  
+## Summary
 
 Collection of 114 sayings of [[Jesus|Jesus]]
 
 
-## Audience & Context  
+## Audience & Context
 < Who was the book written for and what was the historical setting? >
 
-## Genre & Literary Features  
+## Genre & Literary Features
 - Genre:  
 - Notable styles or structures:  
 
-## Key Themes  
+## Key Themes
 - 
 - 
 - 
 
-## Structure / Outline  
+## Structure / Outline
 1.  
 2.  
 3.  
 
-## Theological Insights  
+## Theological Insights
 < Important doctrinal or thematic contributions >
 
 
-## My Notes  
+## My Notes
 - < Observations, cross-references, interpretive notes >
