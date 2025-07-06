@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permanent/NT Wright.md",
+                "file": "Permanent/Antiquities of the Jews.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NT Wright"
+              "title": "Antiquities of the Jews"
             }
           }
         ],
@@ -145,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Permanent/NT Wright.md",
+                "file": "Permanent/Antiquities of the Jews.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,7 +173,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of NT Wright"
+              "title": "Graph of Antiquities of the Jews"
             }
           }
         ]
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent/NT Wright.md",
+                "file": "Permanent/Antiquities of the Jews.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for NT Wright"
+              "title": "Backlinks for Antiquities of the Jews"
             }
           },
           {
@@ -215,12 +215,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Permanent/NT Wright.md",
+                "file": "Permanent/Antiquities of the Jews.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from NT Wright"
+              "title": "Outgoing links from Antiquities of the Jews"
             }
           },
           {
@@ -244,13 +244,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanent/NT Wright.md",
+                "file": "Permanent/Antiquities of the Jews.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of NT Wright"
+              "title": "Outline of Antiquities of the Jews"
             }
           },
           {
@@ -301,10 +301,10 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "25bd2b8618603035",
+  "active": "906dd027c72cc8d5",
   "lastOpenFiles": [
-    "Permanent/Resurrection Theology.md",
     "Permanent/NT Wright.md",
+    "Permanent/Resurrection Theology.md",
     "Permanent/Anglican.md",
     "Permanent/Kingdom Theology.md",
     "Permanent/Mark 1.1-8.md",
