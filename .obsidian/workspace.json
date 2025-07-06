@@ -82,7 +82,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/Scripts/Remove Key and Value from All Notes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -110,7 +109,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Remove Key and Value from All Notes"
+              "title": "Graph view"
             }
           }
         ]
@@ -133,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Scripts/Remove Key and Value from All Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +141,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Remove Key and Value from All Notes"
+              "title": "Backlinks"
             }
           },
           {
@@ -152,12 +150,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Scripts/Remove Key and Value from All Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Remove Key and Value from All Notes"
+              "title": "Outgoing links"
             }
           },
           {
@@ -181,13 +178,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Scripts/Remove Key and Value from All Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Remove Key and Value from All Notes"
+              "title": "Outline"
             }
           },
           {
@@ -237,10 +233,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "25bd2b8618603035",
+  "active": "e6ff67b9b7b31109",
   "lastOpenFiles": [
-    "People MOC.md",
     "Resources/Scripts/Remove Key and Value from All Notes.md",
+    "People MOC.md",
     "Resources/Scripts/Change the Name of a Tag.md",
     "MOC.md",
     "Resources/Scripts",
