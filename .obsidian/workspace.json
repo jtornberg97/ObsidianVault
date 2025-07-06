@@ -35,14 +35,24 @@
             "id": "69319dd43d84bf8a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Permanent/Alexander the Great.md",
-                "bFile": "Permanent/Alexander the Great.md",
-                "aRef": ""
+                "file": "Mark 1.1-8.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: Alexander the Great"
+              "icon": "lucide-file",
+              "title": "Mark 1.1-8"
             }
           }
         ],
@@ -111,6 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Mark 1.1-8.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -138,7 +149,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Mark 1.1-8"
             }
           }
         ]
@@ -161,6 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mark 1.1-8.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +182,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Mark 1.1-8"
             }
           },
           {
@@ -179,11 +191,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mark 1.1-8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Mark 1.1-8"
             }
           },
           {
@@ -207,12 +220,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Mark 1.1-8.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Mark 1.1-8"
             }
           },
           {
@@ -265,14 +279,16 @@
   },
   "active": "69319dd43d84bf8a",
   "lastOpenFiles": [
+    "NT Wright.md",
+    "Mark.md",
+    "Permanent/Trinity.md",
+    "Permanent/Vatican I.md",
     "Permanent/Alexander the Great.md",
     "Permanent/95 Theses.md",
-    "NT Wright.md",
     "Permanent/New Perspective on Paul.md",
     "Mark 1.1-8.md",
     "Permanent/Mark (Gospel).md",
     "Mark 1.md",
-    "Mark.md",
     "Untitled.md",
     "Resources/Templates/Bible Verse.md",
     "README.md",
@@ -290,8 +306,6 @@
     "Resources/Scripts",
     "Permanent/Ancient Judaism.md",
     "Permanent/Antiquities of the Jews.md",
-    "Permanent/Counter-Reformation.md",
-    "Resources/Metadata Definitions/Historical Periods.md",
     "Resources/Assets/Regions with Christian Churches 100 CE.png",
     "Resources/Assets/Course Summary - From Jesus to Constantine.pdf",
     "Change Tag Name.py",
