@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2b6d1c2bd5ab9434",
+        "id": "4891f65bd45bca0f",
         "type": "tabs",
         "children": [
           {
-            "id": "3533e72c441ea23f",
+            "id": "67f0140c6fd7c552",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MOC.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "MOC"
+              "title": "New tab"
             }
           }
         ]
@@ -96,7 +82,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MOC.md",
+                "file": "Resources/Scripts/Remove Key and Value from All Notes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -124,7 +110,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of MOC"
+              "title": "Graph of Remove Key and Value from All Notes"
             }
           }
         ]
@@ -147,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC.md",
+                "file": "Resources/Scripts/Remove Key and Value from All Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +143,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MOC"
+              "title": "Backlinks for Remove Key and Value from All Notes"
             }
           },
           {
@@ -166,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOC.md",
+                "file": "Resources/Scripts/Remove Key and Value from All Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from MOC"
+              "title": "Outgoing links from Remove Key and Value from All Notes"
             }
           },
           {
@@ -195,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOC.md",
+                "file": "Resources/Scripts/Remove Key and Value from All Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MOC"
+              "title": "Outline of Remove Key and Value from All Notes"
             }
           },
           {
@@ -251,14 +237,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3533e72c441ea23f",
+  "active": "25bd2b8618603035",
   "lastOpenFiles": [
+    "People MOC.md",
+    "Resources/Scripts/Remove Key and Value from All Notes.md",
+    "Resources/Scripts/Change the Name of a Tag.md",
+    "MOC.md",
+    "Resources/Scripts",
     "Permanent/Ancient Judaism.md",
     "Permanent/Antiquities of the Jews.md",
     "Permanent/Counter-Reformation.md",
-    "MOC.md",
     "Permanent/95 Theses.md",
-    "People MOC.md",
     "Metadata Definitions/Historical Periods.md",
     "Resources/Assets/Regions with Christian Churches 100 CE.png",
     "Permanent/Joseph of Arimathea.md",
@@ -281,15 +270,12 @@
     "Permanent/Apocalyptic Jews.md",
     "Permanent/Alexander the Great.md",
     "Permanent/Martin Luther.md",
-    "Permanent/Luke (Gospel).md",
-    "Permanent/Ketuvim.md",
     "Resources/Assets/Palestine in New Testament.png",
     "MOC",
     "Ideas",
     "Thoughts and Questions",
     "Lectures/Ehrman - From Jesus to Constantine",
     "Lectures",
-    "Permanent",
-    "Resources/Assets"
+    "Permanent"
   ]
 }
