@@ -7,18 +7,19 @@ periods:
   - Second-Temple-Period
 religious-tradition:
   - Second-Temple-Judaism
-role: Saint
-associated_movements: Early Christianity
+role:
+  - Saint
+associated_movements:
+  - Early Christianity
 notable_works: 
 aliases:
   - Saint Joseph of Arimathea
 tags:
   - Person
-  - Second
   - Judaism/Second-Temple-Judaism
   - Second-Temple-Period
 date_created: Thursday, July 3rd 2025, 8:58:59 pm
-date_modified: Friday, July 4th 2025, 11:43:44 pm
+date_modified: Saturday, July 5th 2025, 12:51:26 am
 ---
 
 # Joseph of Arimathea

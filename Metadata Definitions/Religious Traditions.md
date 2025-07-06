@@ -18,7 +18,7 @@ This document lists major religious traditions relevant to historical Christiani
 | **#Judaism/Ancient-Israelite-Religion** | Religion of the Hebrew Bible before the Babylonian exile                          |     |
 | **#Judaism/Second-Temple-Judaism**      | Diverse sects and beliefs during 516 BCE–70 CE                                    |     |
 | **#Judaism/Rabbinic-Judaism**           | Post-Temple Judaism rooted in the Talmud and rabbinic interpretation              |     |
-| **#Judaism/JudaismMedieval-Judaism**    | Includes rationalism (Maimonides), mysticism (Kabbalah), and diaspora communities |     |
+| **#Judaism/Medieval-Judaism**    | Includes rationalism (Maimonides), mysticism (Kabbalah), and diaspora communities |     |
 | **#Judaism/Modern-Orthodox**            | Traditional practice with some modern engagement                                  |     |
 | **#Judaism/Reform-Judaism**             | Liberal movement that reinterprets traditional beliefs                            |     |
 | **#Judaism/Conservative-Judaism**       | Middle ground between Reform and Orthodox                                         |     |

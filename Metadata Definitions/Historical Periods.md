@@ -29,7 +29,7 @@ This document outlines key historical periods relevant to studies in historical 
 | **#Second-Temple-Period** | 516 BCE–70 CE — Jewish sects (Pharisees, Sadducees), Hellenism, apocalypticism |
 | **#Hellenistic-Period**   | 332–63 BCE — Greek rule after Alexander the Great                              |
 | **#Hasmonean-Period**     | 167–37 BCE — Maccabean revolt, Jewish independence                             |
-| **#Roman-Period-Judaism** | 63 BCE–70 CE — Roman rule of Judea; ends with temple destruction               |
+| **#Judaism/Roman-Period** | 63 BCE–70 CE — Roman rule of Judea; ends with temple destruction               |
 | **#Late-Second-Temple**   | 1st century BCE–70 CE — Jesus, early Christian movement, Dead Sea Scrolls      |
 
 ---

@@ -1,6 +1,6 @@
 ---
 date_created: Friday, July 4th 2025, 9:45:16 pm
-date_modified: Friday, July 4th 2025, 11:42:24 pm
+date_modified: Saturday, July 5th 2025, 11:21:02 pm
 ---
 # MOC
 Map of Content (MOC) for my Obsidian Vault. Lists All notes that exist by type. Queries can be modified using Dataview.
@@ -19,7 +19,7 @@ sort file.name asc
 
 This Dataview table lists all notes about **People**, sorted by last modified date.
 ```dataview
-table religious-tradition as "Tradition"
+table religious-tradition as "Tradition", periods as "Periods"
 where type = "Topic"
 sort file.name asc
 ```
