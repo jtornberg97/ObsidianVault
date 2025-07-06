@@ -40,7 +40,7 @@
       "tags-to-ignore": ""
     },
     "remove-yaml-keys": {
-      "enabled": true,
+      "enabled": false,
       "yaml-keys-to-remove": "period(s)"
     },
     "sort-yaml-array-values": {

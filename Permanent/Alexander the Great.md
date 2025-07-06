@@ -3,8 +3,6 @@ title: Alexander the Great
 type: Person
 birth_date: 356 BCE
 death_date: 323 BCE
-periods:
-  - Hellenistic-Period
 religious-tradition:
   - Pagan
 role: King of Macedon
@@ -18,7 +16,7 @@ tags:
   - Pagan
   - Hellenism
 date_created: Tuesday, July 1st 2025, 10:31:52 pm
-date_modified: Friday, July 4th 2025, 11:43:44 pm
+date_modified: Sunday, July 6th 2025, 3:05:21 pm
 ---
 
 # Alexander the Great

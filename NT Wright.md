@@ -3,8 +3,6 @@ title: NT Wright
 type: Person
 birth_date: "1948"
 death_date: 
-periods:
-  - Contemporary-Period
 religious-tradition: 
 role:
   - Biblical Scholar
@@ -17,13 +15,10 @@ associated_movements:
   - "[[Kingdom Theology]]"
   - "[[Resurrection Theology]]"
 notable_works: 
-aliases:
-  - NT Wright
 tags:
   - Person
-linter-yaml-title-alias: NT Wright
 date_created: Tuesday, July 1st 2025, 8:08:01 pm
-date_modified: Sunday, July 6th 2025, 12:31:29 pm
+date_modified: Sunday, July 6th 2025, 3:04:42 pm
 ---
 
 # NT Wright

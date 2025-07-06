@@ -35,24 +35,14 @@
             "id": "69319dd43d84bf8a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "NT Wright.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": "Permanent/Alexander the Great.md",
+                "bFile": "Permanent/Alexander the Great.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "NT Wright"
+              "icon": "diff",
+              "title": "Diff: Alexander the Great"
             }
           }
         ],
@@ -121,7 +111,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NT Wright.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -149,7 +138,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of NT Wright"
+              "title": "Graph view"
             }
           }
         ]
@@ -172,7 +161,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NT Wright.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +170,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for NT Wright"
+              "title": "Backlinks"
             }
           },
           {
@@ -191,12 +179,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NT Wright.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from NT Wright"
+              "title": "Outgoing links"
             }
           },
           {
@@ -220,13 +207,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NT Wright.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of NT Wright"
+              "title": "Outline"
             }
           },
           {
@@ -279,8 +265,10 @@
   },
   "active": "69319dd43d84bf8a",
   "lastOpenFiles": [
-    "Permanent/New Perspective on Paul.md",
+    "Permanent/Alexander the Great.md",
+    "Permanent/95 Theses.md",
     "NT Wright.md",
+    "Permanent/New Perspective on Paul.md",
     "Mark 1.1-8.md",
     "Permanent/Mark (Gospel).md",
     "Mark 1.md",
@@ -303,10 +291,8 @@
     "Permanent/Ancient Judaism.md",
     "Permanent/Antiquities of the Jews.md",
     "Permanent/Counter-Reformation.md",
-    "Permanent/95 Theses.md",
     "Resources/Metadata Definitions/Historical Periods.md",
     "Resources/Assets/Regions with Christian Churches 100 CE.png",
-    "Permanent/Joseph of Arimathea.md",
     "Resources/Assets/Course Summary - From Jesus to Constantine.pdf",
     "Change Tag Name.py",
     "import os.py",
