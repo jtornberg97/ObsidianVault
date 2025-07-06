@@ -82,7 +82,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -110,7 +109,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of README"
+              "title": "Graph view"
             }
           }
         ]
@@ -133,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +141,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks"
             }
           },
           {
@@ -152,12 +150,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links"
             }
           },
           {
@@ -181,13 +178,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
             }
           },
           {
@@ -240,8 +236,8 @@
   },
   "active": "25bd2b8618603035",
   "lastOpenFiles": [
-    "MOC.md",
     "README.md",
+    "MOC.md",
     "Resources/Templates/Secondary Source.md",
     "Resources/Templates/Primary Source.md",
     "Resources/Templates/Person Template.md",
@@ -249,7 +245,7 @@
     "Resources/Templates/General Topic.md",
     "Resources/Templates/Biblical Book.md",
     "Resources/Templates/Bible Verse.md",
-    "Metadata Definitions/Frontmatter Summary.md",
+    "Resources/Metadata Definitions/Frontmatter Summary.md",
     "Resources/Scripts/Remove Key and Value from All Notes.md",
     "People MOC.md",
     "Resources/Scripts/Change the Name of a Tag.md",
@@ -258,7 +254,7 @@
     "Permanent/Antiquities of the Jews.md",
     "Permanent/Counter-Reformation.md",
     "Permanent/95 Theses.md",
-    "Metadata Definitions/Historical Periods.md",
+    "Resources/Metadata Definitions/Historical Periods.md",
     "Resources/Assets/Regions with Christian Churches 100 CE.png",
     "Permanent/Joseph of Arimathea.md",
     "Permanent/Atheists.md",
