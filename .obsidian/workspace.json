@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Ehrman - From Jesus to Constantine/Lecture 5 - The Apostle Paul.md",
+                "file": "Lectures/Ehrman - From Jesus to Constantine/Lecture 2 - The Religious World of Early Christianity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lecture 5 - The Apostle Paul"
+              "title": "Lecture 2 - The Religious World of Early Christianity"
             }
           }
         ]
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "58623ae6c5145fa6",
@@ -96,7 +97,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lectures/Ehrman - From Jesus to Constantine/Lecture 5 - The Apostle Paul.md",
+                "file": "Lectures/Ehrman - From Jesus to Constantine/Lecture 2 - The Religious World of Early Christianity.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -119,12 +120,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 258,
-                  "scale": 0.5612660329150607,
+                  "scale": 0.5105999872640617,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Lecture 5 - The Apostle Paul"
+              "title": "Graph of Lecture 2 - The Religious World of Early Christianity"
             }
           }
         ]
@@ -252,10 +253,14 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "73e58d48036f3063",
+  "active": "3e0752a1149baf47",
   "lastOpenFiles": [
-    "Lectures/Ehrman - From Jesus to Constantine/Lecture 4 - Oral and Written Traditions about Jesus.md",
     "Lectures/Ehrman - From Jesus to Constantine/Lecture 5 - The Apostle Paul.md",
+    "Permanent/Romans.md",
+    "Permanent/Paul.md",
+    "Screenshot 2025-07-06 at 9.55.05 PM.png",
+    "Resources/Assets/Map of Paul's Mission.png",
+    "Lectures/Ehrman - From Jesus to Constantine/Lecture 4 - Oral and Written Traditions about Jesus.md",
     "Permanent/NT Wright.md",
     "Permanent/N. T. Wright.md",
     "Permanent/Judaism.md",
@@ -278,8 +283,6 @@
     "Permanent/Montanus.md",
     "Permanent/Montanism.md",
     "Permanent/Martyrdom in Early Christianity.md",
-    "Permanent/Marcionism.md",
-    "Permanent/Marcion.md",
     "Resources/Assets/Course Summary - From Jesus to Constantine.pdf",
     "Resources/Scripts",
     "Resources/Assets/Regions with Christian Churches 100 CE.png",
