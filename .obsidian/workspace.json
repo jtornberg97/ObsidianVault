@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permanent/YHWH.md",
-                "mode": "preview",
+                "file": "Resources/Templates/General Topic.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "YHWH"
+              "title": "General Topic"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Permanent/YHWH.md",
+                "file": "Resources/Templates/General Topic.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of YHWH"
+              "title": "Graph of General Topic"
             }
           }
         ]
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent/YHWH.md",
+                "file": "Resources/Templates/General Topic.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for YHWH"
+              "title": "Backlinks for General Topic"
             }
           },
           {
@@ -166,12 +166,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Permanent/YHWH.md",
+                "file": "Resources/Templates/General Topic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from YHWH"
+              "title": "Outgoing links from General Topic"
             }
           },
           {
@@ -195,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanent/YHWH.md",
+                "file": "Resources/Templates/General Topic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of YHWH"
+              "title": "Outline of General Topic"
             }
           },
           {
@@ -254,18 +254,25 @@
   },
   "active": "25bd2b8618603035",
   "lastOpenFiles": [
-    "Permanent/Isaiah.md",
-    "Permanent/YHWH.md",
+    "Resources/Templates/Secondary Source.md",
+    "Resources/Templates/Primary Source.md",
+    "Resources/Templates/Person Template.md",
+    "Resources/Templates/Lecture or Video.md",
+    "Resources/Templates/General Topic.md",
+    "Resources/Templates/Biblical Book.md",
+    "Resources/Templates/Bible Verse.md",
+    "Permanent/Kingdom Theology.md",
+    "Permanent/Leviticus.md",
     "Permanent/Mark 1.9-13.md",
+    "Permanent/YHWH.md",
+    "Permanent/Isaiah.md",
     "Permanent/Antiquities of the Jews.md",
     "Permanent/Anglican.md",
     "Permanent/Mark (Gospel).md",
     "Permanent/Mark 1.1-8.md",
     "Permanent/Jewish Annotated New Testament.md",
-    "Resources/Templates/Bible Verse.md",
     "Permanent/NT Wright.md",
     "Permanent/Resurrection Theology.md",
-    "Permanent/Kingdom Theology.md",
     "Permanent/Mark.md",
     "Permanent/Trinity.md",
     "Permanent/Vatican I.md",
@@ -273,13 +280,6 @@
     "Permanent/95 Theses.md",
     "Permanent/New Perspective on Paul.md",
     "Mark 1.md",
-    "Untitled.md",
-    "README.md",
-    "MOC.md",
-    "Resources/Templates/Secondary Source.md",
-    "Resources/Templates/Primary Source.md",
-    "Resources/Templates/Person Template.md",
-    "Resources/Templates/Lecture or Video.md",
     "Resources/Scripts",
     "Resources/Assets/Regions with Christian Churches 100 CE.png",
     "Resources/Assets/Course Summary - From Jesus to Constantine.pdf",

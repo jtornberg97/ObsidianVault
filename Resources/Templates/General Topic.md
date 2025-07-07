@@ -2,11 +2,14 @@
 title: <% tp.file.title %>
 type: Topic
 religious-tradition: 
-aliases: [<% tp.file.title %>]
-tags: [Topic]
+periods: 
+aliases:
+  - <% tp.file.title %>
+tags:
+  - Topic
 linter-yaml-title-alias: <% tp.file.title %>
 date_created: Monday, June 30th 2025, 9:18:17 pm
-date_modified: Friday, July 4th 2025, 11:42:23 pm
+date_modified: Sunday, July 6th 2025, 9:01:25 pm
 ---
 
 # <% tp.file.title %>
