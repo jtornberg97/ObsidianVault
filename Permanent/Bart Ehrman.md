@@ -1,27 +1,28 @@
 ---
 title: Bart Ehrman
 type: Person
-birth_date: "1955"
-death_date: 
+birth_date: '1955'
+death_date: null
 periods:
-  - Modern-Period
+- Modern-Period
 religious-tradition:
-  - Scholar
+- Scholar
 role: Biblical Scholar
 associated_movements: Historical Jesus
 notable_works:
-  - "[[Lecture 1 - The Birth of Christianity]]"
-  - "[[Lecture 2 - The Religious World of Early Christianity]]"
-  - "[[Lecture 3 - The Historical Jesus]]"
-  - "[[Lecture 4 - Oral and Written Traditions about Jesus]]"
+- '[[Lecture 1 - The Birth of Christianity]]'
+- '[[Lecture 2 - The Religious World of Early Christianity]]'
+- '[[Lecture 3 - The Historical Jesus]]'
+- '[[Lecture 4 - Oral and Written Traditions about Jesus]]'
 aliases:
-  - Ehrman
+- Ehrman
 tags:
-  - Person
-  - Modern-Period
-  - Scholar
+- Person
+- Modern-Period
+- Scholar
 date_created: Tuesday, July 1st 2025, 11:07:27 pm
 date_modified: Friday, July 4th 2025, 11:43:44 pm
+linter-yaml-title-alias: Bart Ehrman
 ---
 
 # Bart Ehrman

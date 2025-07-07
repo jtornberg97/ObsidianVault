@@ -2,15 +2,18 @@
 title: Essenes
 type: Topic
 periods:
-  - Second-Temple-Period
+- Second-Temple-Period
 religious-tradition:
-  - Second-Temple-Judaism
+- Second-Temple-Judaism
 tags:
-  - Topic
-  - Second-Temple-Period
-  - Judaism/Second-Temple-Judaism
+- Second-Temple-Period
+- Topic
+- Judaism/Second-Temple-Judaism
 date_created: Tuesday, July 1st 2025, 11:15:45 pm
 date_modified: Friday, July 4th 2025, 11:43:44 pm
+aliases:
+- Essenes
+linter-yaml-title-alias: Essenes
 ---
 
 # Essenes

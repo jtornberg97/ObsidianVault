@@ -1,27 +1,28 @@
 ---
 title: John the Baptist
 type: Person
-birth_date: 
-death_date: 
+birth_date: null
+death_date: null
 periods:
-  - Second-Temple-Period
+- Second-Temple-Period
 religious-tradition:
-  - "[[Apocalyptic Jews]]"
-  - Second-Temple-Judaism
+- '[[Apocalyptic Jews]]'
+- Second-Temple-Judaism
 role: Prophet
 associated_movements:
-  - Early Christianity
-  - Apocalyptic-Judaism
-notable_works: 
+- Early Christianity
+- Apocalyptic-Judaism
+notable_works: null
 aliases:
-  - John the Baptizer
+- John the Baptizer
 tags:
-  - Person
-  - Second-Temple-Period
-  - Apocalyptic
-  - Judaism/Second-Temple-Judaism
+- Second-Temple-Period
+- Person
+- Apocalyptic
+- Judaism/Second-Temple-Judaism
 date_created: Wednesday, July 2nd 2025, 11:02:31 pm
 date_modified: Friday, July 4th 2025, 11:43:44 pm
+linter-yaml-title-alias: John the Baptist
 ---
 
 # John the Baptist

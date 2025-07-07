@@ -4,25 +4,26 @@ type: Person
 birth_date: ~20 BCE
 death_date: ~36 CE
 periods:
-  - Second-Temple-Period
-  - Apostolic-Period
-  - Early-Roman-Empire
+- Second-Temple-Period
+- Apostolic-Period
+- Early-Roman-Empire
 religious-tradition:
-  - Pagan
+- Pagan
 role: Governor
-associated_movements: 
-notable_works: 
+associated_movements: null
+notable_works: null
 aliases:
-  - Pilate
-  - Pontius
+- Pilate
+- Pontius
 tags:
-  - Person
-  - Second-Temple-Period
-  - Apostolic-Period
-  - Pagan
-  - Early-Roman-Empire
+- Second-Temple-Period
+- Pagan
+- Person
+- Early-Roman-Empire
+- Apostolic-Period
 date_created: Tuesday, July 1st 2025, 10:33:50 pm
 date_modified: Friday, July 4th 2025, 11:43:44 pm
+linter-yaml-title-alias: Pontius Pilate
 ---
 
 # Pontius Pilate

@@ -1,24 +1,27 @@
 ---
 title: NT Wright
 type: Person
-birth_date: "1948"
-death_date: 
-religious-tradition: 
+birth_date: '1948'
+death_date: null
+religious-tradition: null
 role:
-  - Biblical Scholar
-  - Theologian
-  - Bishop
-  - Author
+- Biblical Scholar
+- Theologian
+- Bishop
+- Author
 associated_movements:
-  - "[[New Perspective on Paul]]"
-  - "[[Anglican]]"
-  - "[[Kingdom Theology]]"
-  - "[[Resurrection Theology]]"
-notable_works: 
+- '[[New Perspective on Paul]]'
+- '[[Anglican]]'
+- '[[Kingdom Theology]]'
+- '[[Resurrection Theology]]'
+notable_works: null
 tags:
-  - Person
+- Person
 date_created: Tuesday, July 1st 2025, 8:08:01 pm
 date_modified: Sunday, July 6th 2025, 3:04:42 pm
+aliases:
+- NT Wright
+linter-yaml-title-alias: NT Wright
 ---
 
 # NT Wright

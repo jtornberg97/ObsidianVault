@@ -1,17 +1,21 @@
 ---
 title: Deuteronomy
 type: Biblical-Book
-testament: "[[Old Testament]]"
-author_tradition: 
-date_written: 
+testament: '[[Old Testament]]'
+author_tradition: null
+date_written: null
 cannonical_order: Christian-
-genre: 
-audience: 
-key_themes: 
-related_books: 
-aliases: ["# Deuteronomy"]
-tags: [Scripture, Bible]
-linter-yaml-title-alias: "# Deuteronomy"
+genre: null
+audience: null
+key_themes: null
+related_books: null
+aliases:
+- '# Deuteronomy'
+tags:
+- Bible
+- Scripture
+- Biblical-Book
+linter-yaml-title-alias: Deuteronomy
 date_created: Tuesday, July 1st 2025, 11:20:57 pm
 date_modified: Friday, July 4th 2025, 11:42:23 pm
 ---

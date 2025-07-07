@@ -2,17 +2,18 @@
 title: Messiah
 type: Topic
 periods:
-  - Second-Temple-Period
-  - Late-Second-Temple
-religious-tradition: 
+- Second-Temple-Period
+- Late-Second-Temple
+religious-tradition: null
 aliases:
-  - Messianic
+- Messianic
 tags:
-  - Topic
-  - Second-Temple-Period
-  - Late-Second-Temple
+- Second-Temple-Period
+- Late-Second-Temple
+- Topic
 date_created: Tuesday, July 1st 2025, 10:38:13 pm
 date_modified: Friday, July 4th 2025, 11:43:44 pm
+linter-yaml-title-alias: Messiah
 ---
 
 # Messiah

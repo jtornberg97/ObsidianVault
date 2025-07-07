@@ -1,17 +1,21 @@
 ---
 title: 2 Corinthians
 type: Biblical-Book
-testament: 
-author_tradition: 
-date_written: 
-cannonical_order: 
-genre: 
-audience: 
-key_themes: 
-related_books: 
-aliases: ["# 2 Corinthians"]
-tags: [Scripture, Bible]
-linter-yaml-title-alias: "# 2 Corinthians"
+testament: null
+author_tradition: null
+date_written: null
+cannonical_order: null
+genre: null
+audience: null
+key_themes: null
+related_books: null
+aliases:
+- '# 2 Corinthians'
+tags:
+- Bible
+- Scripture
+- Biblical-Book
+linter-yaml-title-alias: 2 Corinthians
 date_created: Wednesday, July 2nd 2025, 9:47:19 pm
 date_modified: Friday, July 4th 2025, 11:42:23 pm
 ---

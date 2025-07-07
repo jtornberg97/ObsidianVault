@@ -4,26 +4,27 @@ type: Person
 birth_date: 1483 CE
 death_date: 1546 CE
 periods:
-  - Reformation
+- Reformation
 religious-tradition:
-  - Protestant
-  - Roman Catholic
-  - Lutheran
-  - Reformation
+- Protestant
+- Roman Catholic
+- Lutheran
+- Reformation
 role:
-  - Theologian
-  - Reformer
-  - Priest
+- Theologian
+- Reformer
+- Priest
 associated_movements:
-  - Reformation
+- Reformation
 notable_works:
-  - "[[95 Theses]]"
+- '[[95 Theses]]'
 aliases:
-  - Luther
+- Luther
 tags:
-  - Person
+- Person
 date_created: Wednesday, July 2nd 2025, 11:00:10 pm
 date_modified: Friday, July 4th 2025, 11:43:44 pm
+linter-yaml-title-alias: Martin Luther
 ---
 
 # Martin Luther

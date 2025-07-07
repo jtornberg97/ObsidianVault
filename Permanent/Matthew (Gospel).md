@@ -1,19 +1,25 @@
 ---
 title: Matthew (Gospel)
 type: Biblical-Book
-testament: "[[New Testament]]"
-author_tradition: 
-date_written: 
-cannonical_order: 
-genre: 
-audience: 
-key_themes: 
+testament: '[[New Testament]]'
+author_tradition: null
+date_written: null
+cannonical_order: null
+genre: null
+audience: null
+key_themes: null
 related_books:
-  - "[[Mark (Gospel)]]"
-  - "[[Luke (Gospel)]]"
-tags: [Scripture, Bible]
+- '[[Mark (Gospel)]]'
+- '[[Luke (Gospel)]]'
+tags:
+- Bible
+- Scripture
+- Biblical-Book
 date_created: Thursday, July 3rd 2025, 9:08:08 pm
 date_modified: Friday, July 4th 2025, 11:42:23 pm
+aliases:
+- Matthew (Gospel)
+linter-yaml-title-alias: Matthew (Gospel)
 ---
 
 # Matthew (Gospel)

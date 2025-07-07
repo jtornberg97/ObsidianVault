@@ -1,19 +1,25 @@
 ---
 title: Mark (Gospel)
 type: Biblical-Book
-testament: 
-author_tradition: 
-date_written: 
-cannonical_order: 
-genre: 
-audience: 
-key_themes: 
+testament: null
+author_tradition: null
+date_written: null
+cannonical_order: null
+genre: null
+audience: null
+key_themes: null
 related_books:
-  - "[[Matthew (Gospel)]]"
-  - "[[Luke (Gospel)]]"
-tags: [Scripture, Bible]
+- '[[Matthew (Gospel)]]'
+- '[[Luke (Gospel)]]'
+tags:
+- Bible
+- Scripture
+- Biblical-Book
 date_created: Tuesday, July 1st 2025, 10:36:57 pm
 date_modified: Friday, July 4th 2025, 11:42:23 pm
+aliases:
+- Mark (Gospel)
+linter-yaml-title-alias: Mark (Gospel)
 ---
 
 # Mark (Gospel)

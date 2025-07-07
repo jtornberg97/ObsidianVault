@@ -2,13 +2,16 @@
 title: Gentiles
 type: Topic
 periods:
-  - Ongoing
+- Ongoing
 religious-tradition:
-  - Secular
+- Secular
 tags:
-  - Topic
+- Topic
 date_created: Tuesday, July 1st 2025, 8:41:09 pm
 date_modified: Friday, July 4th 2025, 11:43:44 pm
+aliases:
+- Gentiles
+linter-yaml-title-alias: Gentiles
 ---
 
 # Gentiles

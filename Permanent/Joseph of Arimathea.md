@@ -4,22 +4,23 @@ type: Person
 birth_date: 1st Century CE
 death_date: 1st Century CE
 periods:
-  - Second-Temple-Period
+- Second-Temple-Period
 religious-tradition:
-  - Second-Temple-Judaism
+- Second-Temple-Judaism
 role:
-  - Saint
+- Saint
 associated_movements:
-  - Early Christianity
-notable_works: 
+- Early Christianity
+notable_works: null
 aliases:
-  - Saint Joseph of Arimathea
+- Saint Joseph of Arimathea
 tags:
-  - Person
-  - Judaism/Second-Temple-Judaism
-  - Second-Temple-Period
+- Second-Temple-Period
+- Person
+- Judaism/Second-Temple-Judaism
 date_created: Thursday, July 3rd 2025, 8:58:59 pm
 date_modified: Saturday, July 5th 2025, 12:51:26 am
+linter-yaml-title-alias: Joseph of Arimathea
 ---
 
 # Joseph of Arimathea

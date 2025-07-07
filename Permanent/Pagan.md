@@ -2,21 +2,22 @@
 title: Pagan
 type: Topic
 periods:
-  - Apostolic-Period
-  - Second-Temple-Period
-  - Late-Second-Temple
+- Apostolic-Period
+- Second-Temple-Period
+- Late-Second-Temple
 religious-tradition:
-  - Pagan
+- Pagan
 aliases:
-  - Pagans
-  - Paganism
+- Pagans
+- Paganism
 tags:
-  - Topic
-  - Apostolic-Period
-  - Second-Temple-Period
-  - Late-Second-Temple
+- Second-Temple-Period
+- Late-Second-Temple
+- Topic
+- Apostolic-Period
 date_created: Tuesday, July 1st 2025, 10:31:37 pm
 date_modified: Friday, July 4th 2025, 11:43:44 pm
+linter-yaml-title-alias: Pagan
 ---
 
 # Pagan

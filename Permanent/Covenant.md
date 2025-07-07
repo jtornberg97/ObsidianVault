@@ -2,17 +2,20 @@
 title: Covenant
 type: Topic
 periods:
-  - Exodus-and-Conquest
+- Exodus-and-Conquest
 religious-tradition:
-  - Ancient-Israelite-Religion
-  - Second-Temple-Judaism
+- Ancient-Israelite-Religion
+- Second-Temple-Judaism
 tags:
-  - Topic
-  - Ancien-Israelite-Religion
-  - Exodus-and-Conquest
-  - Judaism/Second-Temple-Judaism
+- Ancien-Israelite-Religion
+- Topic
+- Exodus-and-Conquest
+- Judaism/Second-Temple-Judaism
 date_created: Tuesday, July 1st 2025, 10:32:37 pm
 date_modified: Friday, July 4th 2025, 11:43:44 pm
+aliases:
+- Covenant
+linter-yaml-title-alias: Covenant
 ---
 
 # Covenant

@@ -1,18 +1,19 @@
 ---
 title: Mark 1.1-8
 type: Bible-Verse
-book: "[[Mark (Gospel)]]"
+book: '[[Mark (Gospel)]]'
 chapter: Mark 1
 verses: 1-8
-testament: "[[New Testament]]"
-canonical_order: 
-cross_references: 
-related_notes: 
+testament: '[[New Testament]]'
+canonical_order: null
+cross_references: null
+related_notes: null
 aliases:
-  - Mark 1.1-8
+- Mark 1.1-8
 tags:
-  - Scripture
-  - Verse
+- Verse
+- Scripture
+- Bible-Verse
 linter-yaml-title-alias: Mark 1.1-8
 date_created: Tuesday, July 1st 2025, 8:26:10 pm
 date_modified: Sunday, July 6th 2025, 4:33:38 pm

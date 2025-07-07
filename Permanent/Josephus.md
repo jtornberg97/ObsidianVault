@@ -4,25 +4,26 @@ type: Person
 birth_date: 37 CE
 death_date: ~100 CE
 periods:
-  - Late-Second-Temple
+- Late-Second-Temple
 religious-tradition:
-  - Second-Temple-Judaism
+- Second-Temple-Judaism
 role:
-  - Historian
-  - "[[Pharisee]]"
-associated_movements: 
+- Historian
+- '[[Pharisee]]'
+associated_movements: null
 notable_works:
-  - "[[The Jewish War]]"
-  - "[[Antiquities of the Jews]]"
-  - "[[Against Apion]]"
+- '[[The Jewish War]]'
+- '[[Antiquities of the Jews]]'
+- '[[Against Apion]]'
 aliases:
-  - Flavius Josephus
+- Flavius Josephus
 tags:
-  - Person
-  - Late-Second-Temple
-  - Judaism/Second-Temple-Judaism
+- Person
+- Judaism/Second-Temple-Judaism
+- Late-Second-Temple
 date_created: Tuesday, July 1st 2025, 10:33:45 pm
 date_modified: Friday, July 4th 2025, 11:43:44 pm
+linter-yaml-title-alias: Josephus
 ---
 
 # Josephus

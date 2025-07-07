@@ -1,12 +1,12 @@
 ---
 title: Eastern Orthodox Theology
 type: Topic
-religious-tradition: 
-periods: 
+religious-tradition: null
+periods: null
 aliases:
-  - Eastern Orthodox Theology
+- Eastern Orthodox Theology
 tags:
-  - Topic
+- Topic
 linter-yaml-title-alias: Eastern Orthodox Theology
 date_created: Monday, June 30th 2025, 9:18:17 pm
 date_modified: Sunday, July 6th 2025, 9:01:25 pm

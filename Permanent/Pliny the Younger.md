@@ -4,20 +4,21 @@ type: Person
 birth_date: 61 CE
 death_date: 113 CE
 periods:
-  - Early-Roman-Empire
+- Early-Roman-Empire
 religious-tradition:
-  - Pagan
+- Pagan
 role: Governor
-associated_movements: 
-notable_works: 
+associated_movements: null
+notable_works: null
 aliases:
-  - Pliny
+- Pliny
 tags:
-  - Person
-  - Early-Roman-Empire
-  - Pagan
+- Person
+- Early-Roman-Empire
+- Pagan
 date_created: Tuesday, July 1st 2025, 10:33:41 pm
 date_modified: Friday, July 4th 2025, 11:43:44 pm
+linter-yaml-title-alias: Pliny the Younger
 ---
 
 # Pliny the Younger

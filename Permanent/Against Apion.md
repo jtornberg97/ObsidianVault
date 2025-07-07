@@ -2,17 +2,18 @@
 title: Against Apion
 type: Primary-Source
 author(s):
-  - "[[Josephus]]"
-date_written: 
+- '[[Josephus]]'
+date_written: null
 periods:
-  - Second-Temple-Period
+- Second-Temple-Period
 religious-tradition:
-  - Second-Temple-Judaism
+- Second-Temple-Judaism
 source_type: Text
-aliases: [Untitled]
+aliases:
+- Untitled
 tags:
-  - Primary-Source
-linter-yaml-title-alias: Untitled
+- Primary-Source
+linter-yaml-title-alias: Against Apion
 date_created: Wednesday, July 2nd 2025, 10:50:39 pm
 date_modified: Friday, July 4th 2025, 11:43:44 pm
 ---

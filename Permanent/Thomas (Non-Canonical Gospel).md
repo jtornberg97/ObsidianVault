@@ -1,17 +1,23 @@
 ---
 title: Thomas (Non-Canonical Gospel)
 type: Biblical-Book
-testament: "[[Gnostic]]"
-author_tradition: 
-date_written: 
-cannonical_order: 
-genre: 
-audience: 
-key_themes: 
-related_books: 
-tags: [Scripture, Bible]
+testament: '[[Gnostic]]'
+author_tradition: null
+date_written: null
+cannonical_order: null
+genre: null
+audience: null
+key_themes: null
+related_books: null
+tags:
+- Bible
+- Scripture
+- Biblical-Book
 date_created: Thursday, July 3rd 2025, 9:56:36 pm
 date_modified: Friday, July 4th 2025, 11:42:23 pm
+aliases:
+- Thomas (Non-Canonical Gospel)
+linter-yaml-title-alias: Thomas (Non-Canonical Gospel)
 ---
 
 # Thomas (Non-Canonical Gospel)

@@ -4,29 +4,30 @@ type: Person
 birth_date: 272 CE
 death_date: 337 CE
 periods:
-  - Nicence-and-Post-Nicene
-  - Late-Antiquity
+- Nicence-and-Post-Nicene
+- Late-Antiquity
 religious-tradition:
-  - Nicene Christianity
-  - Early Christianity
-  - Pagan
+- Nicene Christianity
+- Early Christianity
+- Pagan
 role: Emperor
 associated_movements: Nicene Christianity
 notable_works:
-  - "[[Edict of Milan]]"
-  - "[[Council of Nicaea]]"
+- '[[Edict of Milan]]'
+- '[[Council of Nicaea]]'
 aliases:
-  - Constantine
-  - Constantine I
+- Constantine
+- Constantine I
 tags:
-  - Person
-  - Nicene-and-Post-Nicene
-  - Late-Antiquity
-  - Nicene-Christianity
-  - Early-Christianity
-  - Pagan
+- Nicene-Christianity
+- Late-Antiquity
+- Pagan
+- Early-Christianity
+- Person
+- Nicene-and-Post-Nicene
 date_created: Tuesday, July 1st 2025, 10:30:46 pm
 date_modified: Friday, July 4th 2025, 11:43:44 pm
+linter-yaml-title-alias: Constantine the Great
 ---
 
 # Constantine the Great

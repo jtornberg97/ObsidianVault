@@ -2,20 +2,21 @@
 title: Great Schism
 type: Topic
 periods:
-  - High-Middle-Ages
+- High-Middle-Ages
 religious-tradition:
-  - Roman Catholic
-  - Eastern Orthodox
+- Roman Catholic
+- Eastern Orthodox
 aliases:
-  - East-West Schism
-  - Schism of 1054
+- East-West Schism
+- Schism of 1054
 tags:
-  - Topic
-  - High-Middle-Ages
-  - Roman-Catholic
-  - Eastern-Orthodox
+- Roman-Catholic
+- Eastern-Orthodox
+- Topic
+- High-Middle-Ages
 date_created: Tuesday, July 1st 2025, 9:07:03 pm
 date_modified: Friday, July 4th 2025, 11:43:44 pm
+linter-yaml-title-alias: Great Schism
 ---
 
 # Great Schism

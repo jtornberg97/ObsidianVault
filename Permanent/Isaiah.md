@@ -1,16 +1,20 @@
 ---
 title: Isaiah
 type: Biblical-Book
-testament: 
-author_tradition: 
-date_written: 
-cannonical_order: 
-genre: 
-audience: 
-key_themes: 
-related_books: 
-aliases: [Isaiah]
-tags: [Scripture, Bible]
+testament: null
+author_tradition: null
+date_written: null
+cannonical_order: null
+genre: null
+audience: null
+key_themes: null
+related_books: null
+aliases:
+- Isaiah
+tags:
+- Bible
+- Scripture
+- Biblical-Book
 linter-yaml-title-alias: Isaiah
 date_created: Tuesday, July 1st 2025, 8:14:21 pm
 date_modified: Sunday, July 6th 2025, 4:27:49 pm

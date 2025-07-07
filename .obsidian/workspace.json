@@ -11,10 +11,24 @@
             "id": "73e58d48036f3063",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Permanent/Athanasius of Alexandria.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Athanasius of Alexandria"
             }
           }
         ]
@@ -82,6 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Permanent/Athanasius of Alexandria.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -109,7 +124,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Athanasius of Alexandria"
             }
           }
         ]
@@ -237,34 +252,35 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "e6ff67b9b7b31109",
+  "active": "73e58d48036f3063",
   "lastOpenFiles": [
+    "Permanent/Barmen Declaration.md",
+    "Permanent/Augustine of Hippo.md",
+    "Permanent/Hans Ku╠êng.md",
+    "Permanent/Athanasius of Alexandria.md",
+    "Permanent/Ancient Judaism.md",
+    "Permanent/Ananias (Acts).md",
+    "Permanent/Absalom.md",
+    "Permanent/Aaron.md",
+    "Permanent/Josephus (Jewish Historian).md",
+    "Permanent/Zionism.md",
+    "Permanent/Zedekiah.md",
+    "Permanent/Zechariah.md",
+    "Permanent/Yom Kippur.md",
+    "Permanent/Yohanan ben Zakkai.md",
+    "Permanent/Uriah.md",
+    "Permanent/Typology in Scripture.md",
+    "Permanent/Titus.md",
+    "Permanent/Timothy.md",
+    "Permanent/Thomas (Disciple).md",
+    "Permanent/Theophilus.md",
+    "Permanent/Theophilus of Antioch.md",
+    "Permanent/Theology of the Body.md",
+    "Permanent/Theology of Suffering.md",
+    "Permanent/Theology and Technology.md",
+    "Permanent/The Problem of Evil.md",
+    "Permanent/The Kingdom of God.md",
     "Resources/Assets/Course Summary - From Jesus to Constantine.pdf",
-    "Permanent/Dietrich Bonhoeffer.md",
-    "Permanent/Nevi'im (Former Prophets).md",
-    "Resources/Templates/General Topic.md",
-    "Permanent/Westminster Confession of Faith.md",
-    "Permanent/The Fall.md",
-    "Permanent/Tertullian.md",
-    "Permanent/Second Vatican Council.md",
-    "Permanent/Sanctification.md",
-    "Permanent/Sacraments.md",
-    "Permanent/Process Theology.md",
-    "Permanent/Postmodern Theology.md",
-    "Permanent/Phyllis Tickle.md",
-    "Permanent/Pelagianism.md",
-    "Permanent/Origen.md",
-    "Permanent/Origen of Alexandria.md",
-    "Permanent/Open Theism.md",
-    "Permanent/Neo-Orthodoxy.md",
-    "Permanent/N. T. Wright.md",
-    "Permanent/Literal vs Allegorical Interpretation.md",
-    "Permanent/Liberation Theology.md",
-    "Permanent/Karl Barth.md",
-    "Permanent/Justin Martyr.md",
-    "Permanent/Justification.md",
-    "Permanent/Jonathan Edwards.md",
-    "Permanent/John Wesley.md",
     "Resources/Scripts",
     "Resources/Assets/Regions with Christian Churches 100 CE.png",
     "Change Tag Name.py",

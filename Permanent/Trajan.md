@@ -4,17 +4,20 @@ type: Person
 birth_date: 53 CE
 death_date: 117 CE
 periods:
-  - Early-Roman-Empire
+- Early-Roman-Empire
 religious-tradition:
-  - Pagan
+- Pagan
 role: Emperor
-associated_movements: 
-notable_works: 
+associated_movements: null
+notable_works: null
 tags:
-  - Person
-  - Early-Roman-Empire
+- Person
+- Early-Roman-Empire
 date_created: Wednesday, July 2nd 2025, 11:22:25 pm
 date_modified: Friday, July 4th 2025, 11:43:44 pm
+aliases:
+- Trajan
+linter-yaml-title-alias: Trajan
 ---
 
 # Trajan

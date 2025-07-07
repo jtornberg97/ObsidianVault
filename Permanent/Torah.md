@@ -1,14 +1,18 @@
 ---
 title: Torah
 type: Primary-Source
-author(s): 
-date_written: 
-periods: 
-religious-tradition: 
+author(s): null
+date_written: null
+periods: null
+religious-tradition: null
 source_type: Text
-tags: [Primary-Source]
+tags:
+- Primary-Source
 date_created: Tuesday, July 1st 2025, 10:32:34 pm
 date_modified: Friday, July 4th 2025, 11:42:23 pm
+aliases:
+- Torah
+linter-yaml-title-alias: Torah
 ---
 
 # Torah

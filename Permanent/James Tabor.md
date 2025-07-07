@@ -1,25 +1,26 @@
 ---
 title: James Tabor
 type: Person
-birth_date: "1946"
-death_date: 
+birth_date: '1946'
+death_date: null
 periods:
-  - Modern-Period
+- Modern-Period
 religious-tradition:
-  - Scholar
+- Scholar
 role: Biblical Scholar
 associated_movements: Historical Jesus
 notable_works:
-  - https://youtube.com/shorts/TV_KA8P9Dhg?si=mqZmqshpfTfgyNwj
+- https://youtube.com/shorts/TV_KA8P9Dhg?si=mqZmqshpfTfgyNwj
 aliases:
-  - James D. Tabor
-  - James D Tabor
+- James D. Tabor
+- James D Tabor
 tags:
-  - Person
-  - Modern-Period
-  - Scholar
+- Person
+- Modern-Period
+- Scholar
 date_created: Friday, July 4th 2025, 9:38:57 pm
 date_modified: Friday, July 4th 2025, 11:43:44 pm
+linter-yaml-title-alias: James Tabor
 ---
 
 # James Tabor

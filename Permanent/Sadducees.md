@@ -2,17 +2,18 @@
 title: Sadducees
 type: Topic
 periods:
-  - Second-Temple-Period
+- Second-Temple-Period
 religious-tradition:
-  - Second-Temple-Judaism
+- Second-Temple-Judaism
 aliases:
-  - Saduccee
+- Saduccee
 tags:
-  - Topic
-  - Second-Temple-Period
-  - Judaism/Second-Temple-Judaism
+- Second-Temple-Period
+- Topic
+- Judaism/Second-Temple-Judaism
 date_created: Tuesday, July 1st 2025, 10:39:05 pm
 date_modified: Friday, July 4th 2025, 11:43:44 pm
+linter-yaml-title-alias: Sadducees
 ---
 
 # Sadducees

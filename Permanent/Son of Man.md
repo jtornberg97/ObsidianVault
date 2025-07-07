@@ -2,15 +2,18 @@
 title: Son of Man
 type: Topic
 periods:
-  - Second-Temple-Period
-  - Late-Second-Temple
+- Second-Temple-Period
+- Late-Second-Temple
 religious-tradition:
-  - Ancient-Israelite-Religion
-  - Second-Temple-Judaism
+- Ancient-Israelite-Religion
+- Second-Temple-Judaism
 tags:
-  - Topic
+- Topic
 date_created: Tuesday, July 1st 2025, 10:38:21 pm
 date_modified: Friday, July 4th 2025, 11:43:44 pm
+aliases:
+- Son of Man
+linter-yaml-title-alias: Son of Man
 ---
 
 # Son of Man

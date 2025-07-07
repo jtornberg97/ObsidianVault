@@ -2,17 +2,18 @@
 title: Vatican I
 type: Topic
 periods:
-  - Modern-Period
+- Modern-Period
 religious-tradition:
-  - Roman Catholic
+- Roman Catholic
 aliases:
-  - First Vatican Council
+- First Vatican Council
 tags:
-  - Topic
-  - Modern-Period
-  - Roman-Catholic
+- Topic
+- Modern-Period
+- Roman-Catholic
 date_created: Tuesday, July 1st 2025, 9:47:49 pm
 date_modified: Friday, July 4th 2025, 11:43:44 pm
+linter-yaml-title-alias: Vatican I
 ---
 
 # Vatican I

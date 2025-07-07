@@ -1,13 +1,18 @@
 ---
 title: Henotheism
 type: Topic
-periods: 
+periods: null
 religious-tradition:
-  - Pagan
-aliases: [Henotheist, Henotheists]
-tags: [Topic, Pagan]
+- Pagan
+aliases:
+- Henotheist
+- Henotheists
+tags:
+- Topic
+- Pagan
 date_created: Tuesday, July 1st 2025, 10:32:25 pm
 date_modified: Friday, July 4th 2025, 11:42:23 pm
+linter-yaml-title-alias: Henotheism
 ---
 
 # Henotheism

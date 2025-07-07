@@ -1,18 +1,22 @@
 ---
 title: Mark 1.9-13
 type: Bible-Verse
-book: "[[Mark (Gospel)]]"
+book: '[[Mark (Gospel)]]'
 chapter: Mark 1
 verses: 9-13
-testament: "[[New Testament]]"
-canonical_order: 
-cross_references: 
-related_notes: 
+testament: '[[New Testament]]'
+canonical_order: null
+cross_references: null
+related_notes: null
 tags:
-  - Scripture
-  - Verse
+- Verse
+- Scripture
+- Bible-Verse
 date_created: Tuesday, July 1st 2025, 8:26:10 pm
 date_modified: Sunday, July 6th 2025, 9:00:27 pm
+aliases:
+- Mark 1.9-13
+linter-yaml-title-alias: Mark 1.9-13
 ---
 # Mark 1.9-13
 Mark 1:9-13

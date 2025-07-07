@@ -1,18 +1,22 @@
 ---
 title: Daniel
 type: Biblical-Book
-testament: "[[Old Testament]]"
-author_tradition: 
-date_written: 
-cannonical_order: 
-genre: 
-audience: 
+testament: '[[Old Testament]]'
+author_tradition: null
+date_written: null
+cannonical_order: null
+genre: null
+audience: null
 key_themes:
-  - "[[Son of Man]]"
-related_books: 
-aliases: ["# Daniel"]
-tags: [Scripture, Bible]
-linter-yaml-title-alias: "# Daniel"
+- '[[Son of Man]]'
+related_books: null
+aliases:
+- '# Daniel'
+tags:
+- Bible
+- Scripture
+- Biblical-Book
+linter-yaml-title-alias: Daniel
 date_created: Wednesday, July 2nd 2025, 10:32:55 pm
 date_modified: Friday, July 4th 2025, 11:42:23 pm
 ---
