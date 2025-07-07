@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permanent/Athanasius of Alexandria.md",
+                "file": "Permanent/NT Wright.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Athanasius of Alexandria"
+              "title": "NT Wright"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Permanent/Athanasius of Alexandria.md",
+                "file": "Permanent/NT Wright.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Athanasius of Alexandria"
+              "title": "Graph of NT Wright"
             }
           }
         ]
@@ -254,32 +254,32 @@
   },
   "active": "73e58d48036f3063",
   "lastOpenFiles": [
-    "Permanent/Barmen Declaration.md",
-    "Permanent/Augustine of Hippo.md",
-    "Permanent/Hans Ku╠êng.md",
+    "Permanent/N. T. Wright.md",
+    "Permanent/NT Wright.md",
+    "Permanent/Judaism.md",
+    "Permanent/Judaism.md",
+    "Permanent/Council of Nicaea.md",
+    "Permanent/Constantine’s Conversion.md",
+    "Permanent/Council of Nicaea (325 CE).md",
     "Permanent/Athanasius of Alexandria.md",
-    "Permanent/Ancient Judaism.md",
-    "Permanent/Ananias (Acts).md",
-    "Permanent/Absalom.md",
-    "Permanent/Aaron.md",
-    "Permanent/Josephus (Jewish Historian).md",
-    "Permanent/Zionism.md",
-    "Permanent/Zedekiah.md",
-    "Permanent/Zechariah.md",
-    "Permanent/Yom Kippur.md",
-    "Permanent/Yohanan ben Zakkai.md",
-    "Permanent/Uriah.md",
-    "Permanent/Typology in Scripture.md",
-    "Permanent/Titus.md",
-    "Permanent/Timothy.md",
-    "Permanent/Thomas (Disciple).md",
-    "Permanent/Theophilus.md",
-    "Permanent/Theophilus of Antioch.md",
-    "Permanent/Theology of the Body.md",
-    "Permanent/Theology of Suffering.md",
-    "Permanent/Theology and Technology.md",
-    "Permanent/The Problem of Evil.md",
-    "Permanent/The Kingdom of God.md",
+    "Permanent/Athanasius.md",
+    "Permanent/Arius.md",
+    "Permanent/Arian Controversy.md",
+    "Permanent/The Trinity.md",
+    "Permanent/The Role of Bishops.md",
+    "Permanent/The Great Persecution.md",
+    "Permanent/Spread of Christianity in the Roman Empire.md",
+    "Permanent/Separation from Judaism.md",
+    "Permanent/Rise of Imperial Christianity.md",
+    "Permanent/Persecutions under Decius and Diocletian.md",
+    "Permanent/Perpetua and Felicitas.md",
+    "Permanent/Montanus.md",
+    "Permanent/Montanism.md",
+    "Permanent/Martyrdom in Early Christianity.md",
+    "Permanent/Marcionism.md",
+    "Permanent/Marcion.md",
+    "Permanent/Legalization of Christianity.md",
+    "Permanent/Irenaeus.md",
     "Resources/Assets/Course Summary - From Jesus to Constantine.pdf",
     "Resources/Scripts",
     "Resources/Assets/Regions with Christian Churches 100 CE.png",

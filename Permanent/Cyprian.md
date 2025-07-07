@@ -1,32 +1,21 @@
 ---
-title: NT Wright
+title: Cyprian
 type: Person
-birth_date: "1948"
+birth_date: 
 death_date: 
+periods: 
 religious-tradition: 
-role:
-  - Biblical Scholar
-  - Theologian
-  - Bishop
-  - Author
-associated_movements:
-  - "[[New Perspective on Paul]]"
-  - "[[Anglican]]"
-  - "[[Kingdom Theology]]"
-  - "[[Resurrection Theology]]"
+role: 
+associated_movements: 
 notable_works: 
-tags:
-  - Person
+aliases: [Cyprian]
+tags: [Person]
+linter-yaml-title-alias: Cyprian
 date_created: Tuesday, July 1st 2025, 8:08:01 pm
-date_modified: Sunday, July 6th 2025, 9:39:20 pm
-aliases:
-  - NT Wright
-  - N.T. Wright
-  - Tom Wright
-linter-yaml-title-alias: NT Wright
+date_modified: Friday, July 4th 2025, 11:42:23 pm
 ---
 
-# NT Wright
+# Cyprian
 
 ## Summary
 < Who was this person and why are they important? >

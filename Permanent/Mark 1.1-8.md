@@ -53,7 +53,7 @@ Mark 1:1-8
 
 [[NT Wright]]
 - [[John the Baptist]] shares news of coming [[Messiah]], [[Apocalyptic Jews]] expected message, but not one calling for repentance
-- [[John the Baptist]] is retelling the story of [[Exodus]] but now saying that [[Judaism 1|Jews]] were to "Leave behind 'Egypt' - the world of sin in which they were living, the world of rebelling against the living God"
+- [[John the Baptist]] is retelling the story of [[Exodus]] but now saying that [[Judaism|Jews]] were to "Leave behind 'Egypt' - the world of sin in which they were living, the world of rebelling against the living God"
 - [[John the Baptist]] is preparing the Jewish world for "someone", maybe the [[Messiah]], maybe [[YHWH]] himself
 - Goal of this passage is to sense the shock of the new thing God was doing
 

@@ -1,32 +1,24 @@
 ---
-title: NT Wright
+title: Athanasius
 type: Person
-birth_date: "1948"
+birth_date: 
 death_date: 
+periods: 
 religious-tradition: 
-role:
-  - Biblical Scholar
-  - Theologian
-  - Bishop
-  - Author
+role: 
 associated_movements:
-  - "[[New Perspective on Paul]]"
-  - "[[Anglican]]"
-  - "[[Kingdom Theology]]"
-  - "[[Resurrection Theology]]"
+  - "[[Arian Controversy|Arianism]]"
 notable_works: 
+aliases:
+  - Athanasius
 tags:
   - Person
+linter-yaml-title-alias: Athanasius
 date_created: Tuesday, July 1st 2025, 8:08:01 pm
-date_modified: Sunday, July 6th 2025, 9:39:20 pm
-aliases:
-  - NT Wright
-  - N.T. Wright
-  - Tom Wright
-linter-yaml-title-alias: NT Wright
+date_modified: Sunday, July 6th 2025, 9:37:07 pm
 ---
 
-# NT Wright
+# Athanasius
 
 ## Summary
 < Who was this person and why are they important? >

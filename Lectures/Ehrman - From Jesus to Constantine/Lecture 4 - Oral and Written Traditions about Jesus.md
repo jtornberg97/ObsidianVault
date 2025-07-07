@@ -39,10 +39,10 @@ date_modified: Friday, July 4th 2025, 11:43:44 pm
 - Have to reconcile 
 	1) Why he came? 
 	2) Why did he die?
-- No record in any [[Judaism 1]] source that the [[Messiah]] was going to die, meant to save Israel as a successor to [[King David]]
+- No record in any [[Judaism]] source that the [[Messiah]] was going to die, meant to save Israel as a successor to [[King David]]
 	- [[Messiah]] = anointed one
 	- Greek Translation is Christos (i.e [[Jesus|Christ]])
-- Various understandings of [[Judaism 1|Jews]] around who the coming [[Messiah]] would be, but all expected that he would be a figure of power
+- Various understandings of [[Judaism|Jews]] around who the coming [[Messiah]] would be, but all expected that he would be a figure of power
 	- Isaiah 53:5-6 becomes important passage but doesn't mention a [[Messiah]]
 	- Psalm 22:1 initially forsaken, gets special favor
 - [[Bart Ehrman|Ehrman]] says that Christians looked for ways to make [[Jesus|Jesus]] the [[Messiah]] based on passaged around suffering from the [[Old Testament]] ![[Regions with Christian Churches 100 CE.png]]

@@ -12,7 +12,7 @@ tags:
 - Nicene-Christianity
 - Nicene-and-Post-Nicene
 date_created: Tuesday, July 1st 2025, 9:34:11 pm
-date_modified: Friday, July 4th 2025, 11:43:44 pm
+date_modified: Sunday, July 6th 2025, 9:38:09 pm
 aliases:
 - Council of Nicaea
 linter-yaml-title-alias: Council of Nicaea
@@ -21,7 +21,9 @@ linter-yaml-title-alias: Council of Nicaea
 # Council of Nicaea
 
 ## Summary
-< Add a brief overview of the topic >
+
+325 CE
+
 
 ## Key Points
 - 
