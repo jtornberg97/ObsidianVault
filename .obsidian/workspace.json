@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Templates/General Topic.md",
+                "file": "Permanent/Dietrich Bonhoeffer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "General Topic"
+              "title": "Dietrich Bonhoeffer"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/Templates/General Topic.md",
+                "file": "Permanent/Dietrich Bonhoeffer.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of General Topic"
+              "title": "Graph of Dietrich Bonhoeffer"
             }
           }
         ]
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Templates/General Topic.md",
+                "file": "Permanent/Nevi'im (Former Prophets).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for General Topic"
+              "title": "Backlinks for Nevi'im (Former Prophets)"
             }
           },
           {
@@ -166,12 +166,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Templates/General Topic.md",
+                "file": "Permanent/Nevi'im (Former Prophets).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from General Topic"
+              "title": "Outgoing links from Nevi'im (Former Prophets)"
             }
           },
           {
@@ -195,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Templates/General Topic.md",
+                "file": "Permanent/Nevi'im (Former Prophets).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of General Topic"
+              "title": "Outline of Nevi'im (Former Prophets)"
             }
           },
           {
@@ -252,34 +252,34 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "25bd2b8618603035",
+  "active": "52ef0c7bbef1dad5",
   "lastOpenFiles": [
-    "Resources/Templates/Secondary Source.md",
-    "Resources/Templates/Primary Source.md",
-    "Resources/Templates/Person Template.md",
-    "Resources/Templates/Lecture or Video.md",
+    "Permanent/Nevi'im (Former Prophets).md",
     "Resources/Templates/General Topic.md",
-    "Resources/Templates/Biblical Book.md",
-    "Resources/Templates/Bible Verse.md",
-    "Permanent/Kingdom Theology.md",
-    "Permanent/Leviticus.md",
-    "Permanent/Mark 1.9-13.md",
-    "Permanent/YHWH.md",
-    "Permanent/Isaiah.md",
-    "Permanent/Antiquities of the Jews.md",
-    "Permanent/Anglican.md",
-    "Permanent/Mark (Gospel).md",
-    "Permanent/Mark 1.1-8.md",
-    "Permanent/Jewish Annotated New Testament.md",
-    "Permanent/NT Wright.md",
-    "Permanent/Resurrection Theology.md",
-    "Permanent/Mark.md",
-    "Permanent/Trinity.md",
-    "Permanent/Vatican I.md",
-    "Permanent/Alexander the Great.md",
-    "Permanent/95 Theses.md",
-    "Permanent/New Perspective on Paul.md",
-    "Mark 1.md",
+    "Permanent/Westminster Confession of Faith.md",
+    "Permanent/The Fall.md",
+    "Permanent/Tertullian.md",
+    "Permanent/Second Vatican Council.md",
+    "Permanent/Sanctification.md",
+    "Permanent/Sacraments.md",
+    "Permanent/Process Theology.md",
+    "Permanent/Postmodern Theology.md",
+    "Permanent/Phyllis Tickle.md",
+    "Permanent/Pelagianism.md",
+    "Permanent/Origen.md",
+    "Permanent/Origen of Alexandria.md",
+    "Permanent/Open Theism.md",
+    "Permanent/Neo-Orthodoxy.md",
+    "Permanent/N. T. Wright.md",
+    "Permanent/Literal vs Allegorical Interpretation.md",
+    "Permanent/Liberation Theology.md",
+    "Permanent/Karl Barth.md",
+    "Permanent/Justin Martyr.md",
+    "Permanent/Justification.md",
+    "Permanent/Jonathan Edwards.md",
+    "Permanent/John Wesley.md",
+    "Permanent/Jesus Seminar.md",
+    "Permanent/James Cone.md",
     "Resources/Scripts",
     "Resources/Assets/Regions with Christian Churches 100 CE.png",
     "Resources/Assets/Course Summary - From Jesus to Constantine.pdf",
