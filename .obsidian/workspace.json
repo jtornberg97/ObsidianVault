@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "55ff9fc8d4f6a4a2",
+        "id": "216f48c3b42610d0",
         "type": "tabs",
         "children": [
           {
-            "id": "52ef0c7bbef1dad5",
+            "id": "73e58d48036f3063",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -237,7 +237,7 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "52ef0c7bbef1dad5",
+  "active": "e6ff67b9b7b31109",
   "lastOpenFiles": [
     "Resources/Assets/Course Summary - From Jesus to Constantine.pdf",
     "Permanent/Dietrich Bonhoeffer.md",
