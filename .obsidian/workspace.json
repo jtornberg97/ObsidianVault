@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permanent/NT Wright.md",
+                "file": "Lectures/Ehrman - From Jesus to Constantine/Lecture 5 - The Apostle Paul.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NT Wright"
+              "title": "Lecture 5 - The Apostle Paul"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Permanent/NT Wright.md",
+                "file": "Lectures/Ehrman - From Jesus to Constantine/Lecture 5 - The Apostle Paul.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of NT Wright"
+              "title": "Graph of Lecture 5 - The Apostle Paul"
             }
           }
         ]
@@ -254,8 +254,10 @@
   },
   "active": "73e58d48036f3063",
   "lastOpenFiles": [
-    "Permanent/N. T. Wright.md",
+    "Lectures/Ehrman - From Jesus to Constantine/Lecture 4 - Oral and Written Traditions about Jesus.md",
+    "Lectures/Ehrman - From Jesus to Constantine/Lecture 5 - The Apostle Paul.md",
     "Permanent/NT Wright.md",
+    "Permanent/N. T. Wright.md",
     "Permanent/Judaism.md",
     "Permanent/Judaism.md",
     "Permanent/Council of Nicaea.md",
@@ -278,8 +280,6 @@
     "Permanent/Martyrdom in Early Christianity.md",
     "Permanent/Marcionism.md",
     "Permanent/Marcion.md",
-    "Permanent/Legalization of Christianity.md",
-    "Permanent/Irenaeus.md",
     "Resources/Assets/Course Summary - From Jesus to Constantine.pdf",
     "Resources/Scripts",
     "Resources/Assets/Regions with Christian Churches 100 CE.png",
