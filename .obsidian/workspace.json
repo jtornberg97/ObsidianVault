@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Ehrman - From Jesus to Constantine/Lecture 2 - The Religious World of Early Christianity.md",
+                "file": "Permanent/Mark Chapter 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lecture 2 - The Religious World of Early Christianity"
+              "title": "Mark Chapter 1"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"type\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "58623ae6c5145fa6",
@@ -97,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lectures/Ehrman - From Jesus to Constantine/Lecture 2 - The Religious World of Early Christianity.md",
+                "file": "Permanent/Mark Chapter 1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -120,12 +119,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 258,
-                  "scale": 0.5105999872640617,
+                  "scale": 0.5158020704871291,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Lecture 2 - The Religious World of Early Christianity"
+              "title": "Graph of Mark Chapter 1"
             }
           }
         ]
@@ -253,8 +252,12 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "3e0752a1149baf47",
+  "active": "73e58d48036f3063",
   "lastOpenFiles": [
+    "Permanent/Mark 1.9-13.md",
+    "Permanent/Mark Chapter 1.md",
+    "Resources/Metadata Definitions/Canonical Order.md",
+    "Lectures/Ehrman - From Jesus to Constantine/Lecture 2 - The Religious World of Early Christianity.md",
     "Lectures/Ehrman - From Jesus to Constantine/Lecture 5 - The Apostle Paul.md",
     "Permanent/Romans.md",
     "Permanent/Paul.md",
@@ -279,10 +282,6 @@
     "Permanent/Separation from Judaism.md",
     "Permanent/Rise of Imperial Christianity.md",
     "Permanent/Persecutions under Decius and Diocletian.md",
-    "Permanent/Perpetua and Felicitas.md",
-    "Permanent/Montanus.md",
-    "Permanent/Montanism.md",
-    "Permanent/Martyrdom in Early Christianity.md",
     "Resources/Assets/Course Summary - From Jesus to Constantine.pdf",
     "Resources/Scripts",
     "Resources/Assets/Regions with Christian Churches 100 CE.png",
