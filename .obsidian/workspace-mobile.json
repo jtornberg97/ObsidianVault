@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "405d40b1ac51d1a9",
+        "id": "69310c6fbb6acf81",
         "type": "tabs",
         "children": [
           {
-            "id": "017774c9678f3c12",
+            "id": "457b9c0a0583ae14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Download Lecture or Video Template.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Download Lecture or Video Template"
-            }
-          },
-          {
-            "id": "9a0806f2206e025f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/Ehrman - From Jesus to Constantine/Lecture 3 - The Historical Jesus.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 3 - The Historical Jesus"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,7 +167,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9a0806f2206e025f",
+  "active": "457b9c0a0583ae14",
   "lastOpenFiles": [
     "Permanent/2 Corinthians.md",
     "2025-07-03.md",

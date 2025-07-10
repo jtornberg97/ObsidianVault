@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "216f48c3b42610d0",
+        "id": "0fef99739ff872f8",
         "type": "tabs",
         "children": [
           {
-            "id": "73e58d48036f3063",
+            "id": "1898bf5471c17b12",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Permanent/Mark Chapter 1.md",
-                "bFile": "Permanent/Mark Chapter 1.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Sources and Lectures/Heaven and Hell.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: Mark Chapter 1"
+              "icon": "lucide-file",
+              "title": "Heaven and Hell"
             }
           }
         ]
@@ -87,6 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Sources and Lectures/Heaven and Hell.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -114,7 +124,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Heaven and Hell"
             }
           }
         ]
@@ -242,36 +252,37 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "73e58d48036f3063",
+  "active": "1898bf5471c17b12",
   "lastOpenFiles": [
+    "Sources and Lectures/The Idea of Israel in Second Temple Judaism - A New Theory of People, Exile, and Israelite Identity.md",
+    "Sources and Lectures/Heaven and Hell.md",
+    "Sources and Lectures/Untitled.md",
+    "Permanent/Aaron.md",
+    "README.md",
+    "2025-07-09.md",
+    "Untitled.canvas",
+    "Permanent/Heresy.md",
+    "Permanent/Dead Sea Scrolls.md",
+    "Permanent/Dead Sea Scrolls.md",
+    "Permanent/Constantine the Great.md",
+    "Permanent/Constantine’s Conversion.md",
+    "Permanent/Constantine.md",
+    "Permanent/Sheol.md",
+    "Sheol.md",
+    "Permanent/John (Gospel).md",
+    "Permanent/Luke (Gospel).md",
+    "Luke(Gospel).md",
+    "().md",
+    "Permanent/Jason A Staples.md",
     "Permanent/Mark Chapter 1.md",
+    "Permanent/Mark (Gospel).md",
+    "Permanent/Mark.md",
     "Permanent/Marcionism.md",
     "Permanent/Mark 1.9-13.md",
     "Resources/Metadata Definitions/Canonical Order.md",
-    "Lectures/Ehrman - From Jesus to Constantine/Lecture 2 - The Religious World of Early Christianity.md",
-    "Lectures/Ehrman - From Jesus to Constantine/Lecture 5 - The Apostle Paul.md",
-    "Permanent/Romans.md",
-    "Permanent/Paul.md",
+    "Sources and Lectures/Ehrman - From Jesus to Constantine/Lecture 2 - The Religious World of Early Christianity.md",
     "Screenshot 2025-07-06 at 9.55.05 PM.png",
     "Resources/Assets/Map of Paul's Mission.png",
-    "Lectures/Ehrman - From Jesus to Constantine/Lecture 4 - Oral and Written Traditions about Jesus.md",
-    "Permanent/NT Wright.md",
-    "Permanent/N. T. Wright.md",
-    "Permanent/Judaism.md",
-    "Permanent/Judaism.md",
-    "Permanent/Council of Nicaea.md",
-    "Permanent/Constantine’s Conversion.md",
-    "Permanent/Council of Nicaea (325 CE).md",
-    "Permanent/Athanasius of Alexandria.md",
-    "Permanent/Athanasius.md",
-    "Permanent/Arius.md",
-    "Permanent/Arian Controversy.md",
-    "Permanent/The Trinity.md",
-    "Permanent/The Role of Bishops.md",
-    "Permanent/The Great Persecution.md",
-    "Permanent/Spread of Christianity in the Roman Empire.md",
-    "Permanent/Separation from Judaism.md",
-    "Permanent/Rise of Imperial Christianity.md",
     "Resources/Assets/Course Summary - From Jesus to Constantine.pdf",
     "Resources/Scripts",
     "Resources/Assets/Regions with Christian Churches 100 CE.png",
@@ -281,8 +292,8 @@
     "MOC",
     "Ideas",
     "Thoughts and Questions",
-    "Lectures/Ehrman - From Jesus to Constantine",
-    "Lectures",
+    "Sources and Lectures/Ehrman - From Jesus to Constantine",
+    "Sources and Lectures",
     "Permanent"
   ]
 }
