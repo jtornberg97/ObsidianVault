@@ -4,7 +4,8 @@ type: Secondary-Source
 author(s):
   - "[[Bart Ehrman]]"
 publication_year: "2021"
-periods: 
+periods:
+  - Second-Temple-Period
 religious-tradition:
   - "[[Apocalyptic Jews]]"
   - Christianity
