@@ -1,0 +1,299 @@
+{
+  "main": {
+    "id": "054fb0338ba71402",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fef99739ff872f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1898bf5471c17b12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources and Lectures/Heaven and Hell.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Heaven and Hell"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0258ee7c1be6051d",
+    "type": "split",
+    "children": [
+      {
+        "id": "66640faa94467fd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25bd2b8618603035",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3e0752a1149baf47",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7d1fa54dc1d14542",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "58623ae6c5145fa6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65af0019cf353ac2",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Sources and Lectures/Heaven and Hell.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 258,
+                  "scale": 0.5158020704871291,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Heaven and Hell"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 311
+  },
+  "right": {
+    "id": "ecc0f90cd4c4eeaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf8e596418d51cf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6f791010e171640",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Permanent/Nevi'im (Former Prophets).md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Nevi'im (Former Prophets)"
+            }
+          },
+          {
+            "id": "b1b2fe68e66ae4f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Permanent/Nevi'im (Former Prophets).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Nevi'im (Former Prophets)"
+            }
+          },
+          {
+            "id": "6dc3dcbdc37e1bd2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a76f8e04ca33eeea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Permanent/Nevi'im (Former Prophets).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Nevi'im (Former Prophets)"
+            }
+          },
+          {
+            "id": "f47908855e5d04af",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e6ff67b9b7b31109",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "pinned": true,
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false
+    }
+  },
+  "active": "e6ff67b9b7b31109",
+  "lastOpenFiles": [
+    "vector_store/index.pkl",
+    "vector_store/index.faiss",
+    "vector_store",
+    "Resources/LLM",
+    "Sources and Lectures/The Idea of Israel in Second Temple Judaism - A New Theory of People, Exile, and Israelite Identity.md",
+    "Sources and Lectures/Heaven and Hell.md",
+    "Sources and Lectures/Untitled.md",
+    "Permanent/Aaron.md",
+    "README.md",
+    "2025-07-09.md",
+    "Untitled.canvas",
+    "Permanent/Heresy.md",
+    "Permanent/Dead Sea Scrolls.md",
+    "Permanent/Dead Sea Scrolls.md",
+    "Permanent/Constantine the Great.md",
+    "Permanent/Constantine’s Conversion.md",
+    "Permanent/Constantine.md",
+    "Permanent/Sheol.md",
+    "Sheol.md",
+    "Permanent/John (Gospel).md",
+    "Permanent/Luke (Gospel).md",
+    "Luke(Gospel).md",
+    "().md",
+    "Permanent/Jason A Staples.md",
+    "Permanent/Mark Chapter 1.md",
+    "Permanent/Mark (Gospel).md",
+    "Permanent/Mark.md",
+    "Permanent/Marcionism.md",
+    "Permanent/Mark 1.9-13.md",
+    "Resources/Metadata Definitions/Canonical Order.md",
+    "Screenshot 2025-07-06 at 9.55.05 PM.png",
+    "Resources/Assets/Map of Paul's Mission.png",
+    "Resources/Assets/Course Summary - From Jesus to Constantine.pdf",
+    "Resources/Scripts",
+    "Resources/Assets/Regions with Christian Churches 100 CE.png",
+    "Change Tag Name.py",
+    "import os.py",
+    "Resources/Assets/Palestine in New Testament.png",
+    "MOC",
+    "Ideas",
+    "Thoughts and Questions"
+  ]
+}

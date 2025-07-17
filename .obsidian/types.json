@@ -1,0 +1,20 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "period(s)": "multitext",
+    "religious-tradition": "multitext",
+    "period": "multitext",
+    "date_written": "text",
+    "created": "text",
+    "updated": "text",
+    "author(s)": "multitext",
+    "key_themes": "multitext",
+    "related_books": "multitext",
+    "notable_works": "multitext",
+    "associated_movements": "multitext",
+    "role": "multitext",
+    "periods": "multitext"
+  }
+}
